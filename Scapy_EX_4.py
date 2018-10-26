@@ -1,4 +1,8 @@
 from scapy.all import *
+"""
+packet filtering 
+
+"""
 
 def ShowPacket(packet):
     data ="%s" %(packet[TCP].payload)
