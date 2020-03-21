@@ -1,5 +1,5 @@
 # Python 3.6.7 에서 동작
-# Oracle instantClient 19.x 버전이 시스템 환경변수로 잡혀져 있어야 됨
+# Oracle instantClient 19.x 버전이 시스템 환경변수로 잡혀져 있어야 됨,
 
 import os
 # connection 되어 얻어온 정보가 한글이 깨져있을 떄
