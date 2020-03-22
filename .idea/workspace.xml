@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b63768cd-3cf8-482c-9a14-e9f7b92a6b5c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Grammer/Recursive/Example01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPython/class_notepad.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/Bisect/bisect01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grammer/DataStructure/Bisect/bisect01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/Bisect/bisect_Total.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grammer/DataStructure/Bisect/bisect_Total.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/Comprehension/Comprehension2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grammer/DataStructure/Comprehension/Comprehension2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/Comprehension/Comprehension_.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grammer/DataStructure/Comprehension/Comprehension_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/Comprehension/NamedTupleEx.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grammer/DataStructure/Comprehension/NamedTupleEx.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/DataBase_/DataBase_Structure.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grammer/DataStructure/DataBase_/DataBase_Structure.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/DataBase_/DataBase_Structure2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grammer/DataStructure/DataBase_/DataBase_Structure2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/DefaultDict/DIct_Default.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grammer/DataStructure/DefaultDict/DIct_Default.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/DefaultDict/DIct_default3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grammer/DataStructure/DefaultDict/DIct_default3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/DefaultDict/Dict_default_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grammer/DataStructure/DefaultDict/Dict_default_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/Filtering/filteringEx.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grammer/DataStructure/Filtering/filteringEx.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/Generator/generator_yield.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grammer/DataStructure/Generator/generator_yield.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/Heap/Heap_Total.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grammer/DataStructure/Heap/Heap_Total.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/Heap/headData.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grammer/DataStructure/Heap/headData.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/Heap/showHeap.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grammer/DataStructure/Heap/showHeap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/Pack_And_Unpack/PackAndUnpack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grammer/DataStructure/Pack_And_Unpack/PackAndUnpack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/Queue/DequeEx(collections).py" beforeDir="false" afterPath="$PROJECT_DIR$/Grammer/DataStructure/Queue/DequeEx(collections).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/Queue/Queue01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grammer/DataStructure/Queue/Queue01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/Queue/Queue_priority.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grammer/DataStructure/Queue/Queue_priority.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/Queue/someText.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Grammer/DataStructure/Queue/someText.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/Slicing/slicingEx.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grammer/DataStructure/Slicing/slicingEx.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/array/array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grammer/DataStructure/array/array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/array/array_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grammer/DataStructure/array/array_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/array/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Grammer/DataStructure/array/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/collections/Collections_.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grammer/DataStructure/collections/Collections_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/collections/Collections_total.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grammer/DataStructure/collections/Collections_total.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/collections/tesd.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Grammer/DataStructure/collections/tesd.txt" afterDir="false" />
-    </list>
+    <list default="true" id="8c5e76e5-8189-4ab7-bb93-61928fc3aa1b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,17 +32,29 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="deletionFromPopupRequiresConfirmation" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pro_flask" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pro_flask" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Grammer/DataStructure" />
       <recent name="$PROJECT_DIR$/gitPython/MiniProject" />
       <recent name="$PROJECT_DIR$/pro_flask/templates" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/pro_flask" />
-    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Python.Example01">
     <configuration name="Example01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -110,6 +91,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NotePad.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="lets_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,6 +183,49 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="lets_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="lets_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="lets_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Example01" />
@@ -190,18 +235,6 @@
         <item itemvalue="Python.encryp_notepad" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -215,6 +248,17 @@
       <updated>1579586506456</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579689883311">
