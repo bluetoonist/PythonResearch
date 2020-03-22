@@ -8,13 +8,13 @@ arr = array.array('i',range(5))
 # array의 내용을 파일에 쓰거나 읽기
 # tofile : write to file Function
 
-f = open("test.txt","w+b")
+f = open("test.txt", "w+b")
 arr.tofile(f)
 f.flush()
 
 # array ----(stream(binary))----> file
 
-with open("test.txt","rb") as f1:
+with open("test.txt", "rb") as f1:
     data = f1.read()
 
     # Data return Binary

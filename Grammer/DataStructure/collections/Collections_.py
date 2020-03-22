@@ -31,7 +31,7 @@ print(list(ct.elements()))
 
 # most_common(n) 사용하기 : 상위 n개의 시퀀스를 시퀀스로 만든다.
 ct2 = collections.Counter()
-with open("tesd.txt","rt") as f:
+with open("tesd.txt", "rt") as f:
     for li in f:
         ct2.update(li.rstrip().lower())
 
