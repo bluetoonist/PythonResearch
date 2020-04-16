@@ -2,59 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c5e76e5-8189-4ab7-bb93-61928fc3aa1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Appliaction_Module/Example01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notepad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notepad2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ITL_KOREA_Crawler/ITLKOREA_.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/ITL_KOREA_Crawler/ITLKOREA_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ITL_KOREA_Crawler/ITLKOREA_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/ITL_KOREA_Crawler/ITLKOREA_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SocketPython/1.Basic/socket_client_basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Network_Module/SocketPython/1.Basic/socket_client_basic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SocketPython/1.Basic/socket_server_basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Network_Module/SocketPython/1.Basic/socket_server_basic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SocketPython/2.Practice/Client_Study.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Network_Module/SocketPython/2.Practice/Client_Study.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SocketPython/2.Practice/Server_Study.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Network_Module/SocketPython/2.Practice/Server_Study.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SocketPython/3.ReverseTCP/Reverse_tcp_Server.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Network_Module/SocketPython/3.ReverseTCP/Reverse_tcp_Server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SocketPython/3.ReverseTCP/Reverse_tcp_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Network_Module/SocketPython/3.ReverseTCP/Reverse_tcp_client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/32.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/32.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/MabinogiDaemotMacro02.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/MabinogiDaemotMacro02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/MacroExample02/Example02_.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/MacroExample02/Example02_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/MarbinogiMarcro.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/MarbinogiMarcro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/TestMacroExam01/MacroExample01.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/TestMacroExam01/MacroExample01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/TestMacroExam01/MacroExample02.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/TestMacroExam01/MacroExample02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/daemot1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/daemot1.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/daemot2.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/daemot2.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/daemot3.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/daemot3.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/daemot4.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/daemot4.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/rocks_click_test/image_click.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/image_click.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/rocks_click_test/rock1.png" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/rocks_click_test/rock10.png" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/rocks_click_test/rock11.png" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/rocks_click_test/rock12.png" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/rocks_click_test/rock13.png" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/rocks_click_test/rock14.png" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock14.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/rocks_click_test/rock15.png" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock15.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/rocks_click_test/rock16.png" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/rocks_click_test/rock17.png" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock17.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/rocks_click_test/rock18.png" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock18.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/rocks_click_test/rock19.png" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock19.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/rocks_click_test/rock2.png" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/rocks_click_test/rock3.png" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/rocks_click_test/rock4.png" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/rocks_click_test/rock5.png" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/rocks_click_test/rock6.png" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/rocks_click_test/rock7.png" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/rocks_click_test/rock8.png" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/rocks_click_test/rock9.png" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/test-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/test-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marbinogiMacro/testing.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/testing.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oracleConnection/ExcelRead.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/oracleConnection/ExcelRead.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oracleConnection/conncetion_example02.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/oracleConnection/conncetion_example02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oracleConnection/connection_example01.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/oracleConnection/connection_example01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scapy_example/ReadMe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Network_Module/scapy_example/ReadMe.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scapy_example/Scapy_Ex_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Network_Module/scapy_example/Scapy_Ex_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scapy_example/Scapy_Ex_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Network_Module/scapy_example/Scapy_Ex_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scapy_example/Scapy_Ex_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Network_Module/scapy_example/Scapy_Ex_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scapy_example/Scapy_Ex_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Network_Module/scapy_example/Scapy_Ex_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scapy_example/Scapy_Ex_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Network_Module/scapy_example/Scapy_Ex_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/WebHackingKr/Practice02.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonHackingExercises/WebHackingKr/Practice02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/WebHackingKr/Practice03.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonHackingExercises/WebHackingKr/Practice03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Appliaction_Module/Example01.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Appliaction_Module/Example01.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,15 +41,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\user\Desktop\Source\gitPython\PythonHackingExercises\PythonHackingNetworkModule" />
-      <recent name="C:\Users\user\Desktop\Source\gitPython\PythonHackingExercises" />
-      <recent name="C:\Users\user\Desktop\Source\gitPython\MiniProject" />
-      <recent name="$PROJECT_DIR$/Grammer/DataStructure" />
-      <recent name="$PROJECT_DIR$/gitPython/MiniProject" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/pro_flask" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\Source\gitPython\PythonHackingExercises" />
+      <recent name="C:\Users\user\Desktop\Source\gitPython\ExampleGroup\windowTimeTounix" />
+      <recent name="C:\Users\user\Desktop\Source\gitPython\ExampleGroup" />
+      <recent name="C:\Users\user\Desktop\Source\gitPython\PythonHackingExercises\PythonHackingNetworkModule" />
+      <recent name="C:\Users\user\Desktop\Source\gitPython\MiniProject" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -113,8 +64,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.notepad2">
-    <configuration name="ExcelRead" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Example02">
+    <configuration name="Example01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="lets_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,11 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oracleConnection" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Appliaction_Module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oracleConnection/ExcelRead.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Appliaction_Module/Example01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Practice02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Example02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="lets_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MiniProject/WebHackingKr" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Appliaction_Module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MiniProject/WebHackingKr/Practice02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Appliaction_Module/Example02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Practice03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ctypesExample" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="lets_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,53 +115,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MiniProject/WebHackingKr" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Appliaction_Module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MiniProject/WebHackingKr/Practice03.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="notepad" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="lets_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\user\Desktop\Source\gitPython\ExampleGroup\windowTimeTounix\notepad.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="notepad2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="lets_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\user\Desktop\Source\gitPython\ExampleGroup\windowTimeTounix\notepad.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Appliaction_Module/ctypesExample.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,11 +130,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.notepad2" />
-        <item itemvalue="Python.notepad" />
-        <item itemvalue="Python.Practice03" />
-        <item itemvalue="Python.Practice02" />
-        <item itemvalue="Python.ExcelRead" />
+        <item itemvalue="Python.Example02" />
+        <item itemvalue="Python.Example01" />
+        <item itemvalue="Python.ctypesExample" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586869625231</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2020-04-16 update">
+      <created>1587024877876</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587024877876</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,7 +187,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Merged!" />
     <MESSAGE value="2020-04-14 update" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-04-14 update" />
+    <MESSAGE value="2020-04-16 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-04-16 update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579689883311">
