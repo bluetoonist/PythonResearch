@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+
+<html  dir="ltr" lang="ko" xml:lang="ko" class="html_login">
+<head>
+    <title>목포대학교 LMS</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, target-densitydpi=medium-dpi" />
+    <meta name="keywords" content="moodle, coursemos, 코스모스">
+    <link rel="shortcut icon" href="https://lms.mokpo.ac.kr/theme/image.php/coursemosv2/theme/1586338475/favicon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="moodle, 목포대학교 LMS: 사이트에 로그인" />
+<link rel="stylesheet" type="text/css" href="https://lms.mokpo.ac.kr/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.css" /><script id="firstthemesheet" type="text/css">/** Required in order to fix style inclusion problems in IE with YUI **/</script><link rel="stylesheet" type="text/css" href="https://lms.mokpo.ac.kr/theme/styles.php/coursemosv2/1586338475/all" />
+<script type="text/javascript">
+//<![CDATA[
+var M = {}; M.yui = {};
+M.pageloadstarttime = new Date();
+M.cfg = {"wwwroot":"https:\/\/lms.mokpo.ac.kr","sesskey":"D9AXg6Jf2M","loadingicon":"https:\/\/lms.mokpo.ac.kr\/theme\/image.php\/coursemosv2\/core\/1586338475\/i\/loading_small","themerev":"1586338475","slasharguments":1,"theme":"coursemosv2","jsrev":"1586338475","admin":"admin","svgicons":true};var yui1ConfigFn = function(me) {if(/-skin|reset|fonts|grids|base/.test(me.name)){me.type='css';me.path=me.path.replace(/\.js/,'.css');me.path=me.path.replace(/\/yui2-skin/,'/assets/skins/sam/yui2-skin')}};
+var yui2ConfigFn = function(me) {var parts=me.name.replace(/^moodle-/,'').split('-'),component=parts.shift(),module=parts[0],min='-min';if(/-(skin|core)$/.test(me.name)){parts.pop();me.type='css';min=''}
+if(module){var filename=parts.join('-');me.path=component+'/'+module+'/'+filename+min+'.'+me.type}else{me.path=component+'/'+component+'.'+me.type}};
+YUI_config = {"debug":false,"base":"https:\/\/lms.mokpo.ac.kr\/lib\/yuilib\/3.17.2\/","comboBase":"https:\/\/lms.mokpo.ac.kr\/theme\/yui_combo.php?","combine":true,"filter":null,"insertBefore":"firstthemesheet","groups":{"yui2":{"base":"https:\/\/lms.mokpo.ac.kr\/lib\/yuilib\/2in3\/2.9.0\/build\/","comboBase":"https:\/\/lms.mokpo.ac.kr\/theme\/yui_combo.php?","combine":true,"ext":false,"root":"2in3\/2.9.0\/build\/","patterns":{"yui2-":{"group":"yui2","configFn":yui1ConfigFn}}},"moodle":{"name":"moodle","base":"https:\/\/lms.mokpo.ac.kr\/theme\/yui_combo.php?m\/1586338475\/","combine":true,"comboBase":"https:\/\/lms.mokpo.ac.kr\/theme\/yui_combo.php?","ext":false,"root":"m\/1586338475\/","patterns":{"moodle-":{"group":"moodle","configFn":yui2ConfigFn}},"filter":null,"modules":{"moodle-core-actionmenu":{"requires":["base","event","node-event-simulate"]},"moodle-core-blocks":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification"]},"moodle-core-checknet":{"requires":["base-base","moodle-core-notification-alert","io-base"]},"moodle-core-chooserdialogue":{"requires":["base","panel","moodle-core-notification"]},"moodle-core-dock":{"requires":["base","node","event-custom","event-mouseenter","event-resize","escape","moodle-core-dock-loader","moodle-core-event"]},"moodle-core-dock-loader":{"requires":["escape"]},"moodle-core-dragdrop":{"requires":["base","node","io","dom","dd","event-key","event-focus","moodle-core-notification"]},"moodle-core-event":{"requires":["event-custom"]},"moodle-core-formautosubmit":{"requires":["base","event-key"]},"moodle-core-formchangechecker":{"requires":["base","event-focus","moodle-core-event"]},"moodle-core-handlebars":{"condition":{"trigger":"handlebars","when":"after"}},"moodle-core-languninstallconfirm":{"requires":["base","node","moodle-core-notification-confirm","moodle-core-notification-alert"]},"moodle-core-lockscroll":{"requires":["plugin","base-build"]},"moodle-core-maintenancemodetimer":{"requires":["base","node"]},"moodle-core-notification":{"requires":["moodle-core-notification-dialogue","moodle-core-notification-alert","moodle-core-notification-confirm","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-core-notification-dialogue":{"requires":["base","node","panel","escape","event-key","dd-plugin","moodle-core-widget-focusafterclose","moodle-core-lockscroll"]},"moodle-core-notification-alert":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-confirm":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-exception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-ajaxexception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-popuphelp":{"requires":["moodle-core-tooltip"]},"moodle-core-tooltip":{"requires":["base","node","io-base","moodle-core-notification-dialogue","json-parse","widget-position","widget-position-align","event-outside","cache-base"]},"moodle-core_availability-form":{"requires":["base","node","event","event-delegate","panel","moodle-core-notification-dialogue","json"]},"moodle-backup-backupselectall":{"requires":["node","event","node-event-simulate","anim"]},"moodle-backup-confirmcancel":{"requires":["node","node-event-simulate","moodle-core-notification-confirm"]},"moodle-calendar-info":{"requires":["base","node","event-mouseenter","event-key","overlay","moodle-calendar-info-skin"]},"moodle-course-categoryexpander":{"requires":["node","event-key"]},"moodle-course-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-course-coursebase","moodle-course-util"]},"moodle-course-formatchooser":{"requires":["base","node","node-event-simulate"]},"moodle-course-management":{"requires":["base","node","io-base","moodle-core-notification-exception","json-parse","dd-constrain","dd-proxy","dd-drop","dd-delegate","node-event-delegate"]},"moodle-course-modchooser":{"requires":["moodle-core-chooserdialogue","moodle-course-coursebase"]},"moodle-course-toolboxes":{"requires":["node","base","event-key","node","io","moodle-course-coursebase","moodle-course-util"]},"moodle-course-util":{"requires":["node"],"use":["moodle-course-util-base"],"submodules":{"moodle-course-util-base":{},"moodle-course-util-section":{"requires":["node","moodle-course-util-base"]},"moodle-course-util-cm":{"requires":["node","moodle-course-util-base"]}}},"moodle-form-dateselector":{"requires":["base","node","overlay","calendar"]},"moodle-form-passwordunmask":{"requires":[]},"moodle-form-shortforms":{"requires":["node","base","selector-css3","moodle-core-event"]},"moodle-form-showadvanced":{"requires":["node","base","selector-css3"]},"moodle-core_message-messenger":{"requires":["escape","handlebars","io-base","moodle-core-notification-ajaxexception","moodle-core-notification-alert","moodle-core-notification-dialogue","moodle-core-notification-exception"]},"moodle-question-chooser":{"requires":["moodle-core-chooserdialogue"]},"moodle-question-preview":{"requires":["base","dom","event-delegate","event-key","core_question_engine"]},"moodle-question-qbankmanager":{"requires":["node","selector-css3"]},"moodle-question-searchform":{"requires":["base","node"]},"moodle-availability_completion-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_date-form":{"requires":["base","node","event","io","moodle-core_availability-form"]},"moodle-availability_grade-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_group-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_grouping-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_profile-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-qtype_ddimageortext-dd":{"requires":["node","dd","dd-drop","dd-constrain"]},"moodle-qtype_ddimageortext-form":{"requires":["moodle-qtype_ddimageortext-dd","form_filepicker"]},"moodle-qtype_ddmarker-dd":{"requires":["node","event-resize","dd","dd-drop","dd-constrain","graphics"]},"moodle-qtype_ddmarker-form":{"requires":["moodle-qtype_ddmarker-dd","form_filepicker","graphics","escape"]},"moodle-qtype_ddwtos-dd":{"requires":["node","dd","dd-drop","dd-constrain"]},"moodle-qtype_stack-input":{"requires":["node","event-valuechange","moodle-core-event","io","json-parse"]},"moodle-mod_assign-history":{"requires":["node","transition"]},"moodle-mod_forum-subscriptiontoggle":{"requires":["base-base","io-base"]},"moodle-mod_quiz-autosave":{"requires":["base","node","event","event-valuechange","node-event-delegate","io-form"]},"moodle-mod_quiz-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-base","moodle-mod_quiz-util-page","moodle-mod_quiz-util-slot","moodle-course-util"]},"moodle-mod_quiz-modform":{"requires":["base","node","event"]},"moodle-mod_quiz-questionchooser":{"requires":["moodle-core-chooserdialogue","moodle-mod_quiz-util","querystring-parse"]},"moodle-mod_quiz-quizbase":{"requires":["base","node"]},"moodle-mod_quiz-quizquestionbank":{"requires":["base","event","node","io","io-form","yui-later","moodle-question-qbankmanager","moodle-core-notification-dialogue"]},"moodle-mod_quiz-randomquestion":{"requires":["base","event","node","io","moodle-core-notification-dialogue"]},"moodle-mod_quiz-repaginate":{"requires":["base","event","node","io","moodle-core-notification-dialogue"]},"moodle-mod_quiz-toolboxes":{"requires":["base","node","event","event-key","io","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-slot","moodle-core-notification-ajaxexception"]},"moodle-mod_quiz-util":{"requires":["node","moodle-core-actionmenu"],"use":["moodle-mod_quiz-util-base"],"submodules":{"moodle-mod_quiz-util-base":{},"moodle-mod_quiz-util-slot":{"requires":["node","moodle-mod_quiz-util-base"]},"moodle-mod_quiz-util-page":{"requires":["node","moodle-mod_quiz-util-base"]}}},"moodle-message_airnotifier-toolboxes":{"requires":["base","node","io"]},"moodle-block_navigation-navigation":{"requires":["base","io-base","node","event-synthetic","event-delegate","json-parse"]},"moodle-filter_glossary-autolinker":{"requires":["base","node","io-base","json-parse","event-delegate","overlay","moodle-core-event","moodle-core-notification-alert","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-filter_mathjaxloader-loader":{"requires":["moodle-core-event"]},"moodle-editor_atto-editor":{"requires":["node","transition","io","overlay","escape","event","event-simulate","event-custom","node-event-html5","node-event-simulate","yui-throttle","moodle-core-notification-dialogue","moodle-core-notification-confirm","moodle-editor_atto-rangy","handlebars","timers","querystring-stringify"]},"moodle-editor_atto-plugin":{"requires":["node","base","escape","event","event-outside","handlebars","event-custom","timers","moodle-editor_atto-menu"]},"moodle-editor_atto-menu":{"requires":["moodle-core-notification-dialogue","node","event","event-custom"]},"moodle-editor_atto-rangy":{"requires":[]},"moodle-report_eventlist-eventfilter":{"requires":["base","event","node","node-event-delegate","datatable","autocomplete","autocomplete-filters"]},"moodle-report_loglive-fetchlogs":{"requires":["base","event","node","io","node-event-delegate"]},"moodle-gradereport_grader-gradereporttable":{"requires":["base","node","event","handlebars","overlay","event-hover"]},"moodle-gradereport_history-userselector":{"requires":["escape","event-delegate","event-key","handlebars","io-base","json-parse","moodle-core-notification-dialogue"]},"moodle-tool_capability-search":{"requires":["base","node"]},"moodle-tool_lp-dragdrop-reorder":{"requires":["moodle-core-dragdrop"]},"moodle-tool_monitor-dropdown":{"requires":["base","event","node"]},"moodle-assignfeedback_editpdf-editor":{"requires":["base","event","node","io","graphics","json","event-move","event-resize","transition","querystring-stringify-simple","moodle-core-notification-dialog","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-atto_accessibilitychecker-button":{"requires":["color-base","moodle-editor_atto-plugin"]},"moodle-atto_accessibilityhelper-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_align-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_bold-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_charmap-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_clear-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_collapse-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_coursemosvimeo-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_emoticon-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_equation-button":{"requires":["moodle-editor_atto-plugin","moodle-core-event","io","event-valuechange","tabview","array-extras"]},"moodle-atto_html-button":{"requires":["moodle-editor_atto-plugin","event-valuechange"]},"moodle-atto_image-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_indent-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_italic-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_link-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_managefiles-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_managefiles-usedfiles":{"requires":["node","escape"]},"moodle-atto_media-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_noautolink-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_orderedlist-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_pbltemplate-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_poodll-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_rtl-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_strike-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_subscript-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_superscript-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_table-button":{"requires":["moodle-editor_atto-plugin","moodle-editor_atto-menu","event","event-valuechange"]},"moodle-atto_title-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_underline-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_undo-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_unorderedlist-button":{"requires":["moodle-editor_atto-plugin"]}}},"gallery":{"name":"gallery","base":"https:\/\/lms.mokpo.ac.kr\/lib\/yuilib\/gallery\/","combine":true,"comboBase":"https:\/\/lms.mokpo.ac.kr\/theme\/yui_combo.php?","ext":false,"root":"gallery\/1586338475\/","patterns":{"gallery-":{"group":"gallery"}}}},"modules":{"core_filepicker":{"name":"core_filepicker","fullpath":"https:\/\/lms.mokpo.ac.kr\/lib\/javascript.php\/1586338475\/repository\/filepicker.js","requires":["base","node","node-event-simulate","json","async-queue","io-base","io-upload-iframe","io-form","yui2-treeview","panel","cookie","datatable","datatable-sort","resize-plugin","dd-plugin","escape","moodle-core_filepicker"]},"core_comment":{"name":"core_comment","fullpath":"https:\/\/lms.mokpo.ac.kr\/lib\/javascript.php\/1586338475\/comment\/comment.js","requires":["base","io-base","node","json","yui2-animation","overlay","escape"]}}};
+M.yui.loader = {modules: {}};
+
+//]]>
+</script>
+
+<meta property="og:type" content="website" />
+<meta property="og:title" content="목포대학교 LMS" />
+<meta property="og:description" content="MOKPO NATIONAL UNIVERSITY, Institute of Education Innovation" />
+<meta property="og:image" content="null" />
+<meta property="og:url" content="http://lms.mokpo.ac.kr" />    <link href="/theme/coursemosv2/style/main_login.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body id="page-login-index" class="loginpage_5 ">
+<div class="skiplinks">
+    <a href="#maincontent" class="skip">주 내용으로 가기</a>
+</div><script type="text/javascript" src="https://lms.mokpo.ac.kr/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.js&amp;rollup/1586338475/mcore-min.js"></script><script type="text/javascript" src="https://lms.mokpo.ac.kr/theme/jquery.php/core/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="https://lms.mokpo.ac.kr/theme/jquery.php/core/ui-1.12.1/jquery-ui.min.js"></script>
+<script type="text/javascript" src="https://lms.mokpo.ac.kr/theme/jquery.php/theme_coursemosv2/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://lms.mokpo.ac.kr/theme/jquery.php/theme_coursemosv2/jquery.cookie.js"></script>
+<script type="text/javascript" src="https://lms.mokpo.ac.kr/theme/jquery.php/theme_coursemosv2/jquery.validate.min.js"></script>
+<script type="text/javascript" src="https://lms.mokpo.ac.kr/theme/jquery.php/theme_coursemosv2/jquery.validate.methods.js"></script>
+<script type="text/javascript" src="https://lms.mokpo.ac.kr/theme/jquery.php/theme_coursemosv2/jquery.tableHeadFixer.js"></script>
+<script type="text/javascript" src="https://lms.mokpo.ac.kr/theme/jquery.php/theme_coursemosv2/bootstrap-datepicker.js"></script>
+<script type="text/javascript" src="https://lms.mokpo.ac.kr/theme/jquery.php/theme_coursemosv2/jquery-sortable.js"></script>
+<script type="text/javascript" src="https://lms.mokpo.ac.kr/theme/jquery.php/theme_coursemosv2/moment.min.js"></script>
+<script type="text/javascript" src="https://lms.mokpo.ac.kr/theme/jquery.php/theme_coursemosv2/fullcalendar.js"></script>
+<script type="text/javascript" src="https://lms.mokpo.ac.kr/theme/jquery.php/theme_coursemosv2/gcal.js"></script>
+<script type="text/javascript" src="https://lms.mokpo.ac.kr/theme/jquery.php/theme_coursemosv2/jquery.filedownload.js"></script>
+<script type="text/javascript" src="https://lms.mokpo.ac.kr/theme/jquery.php/theme_coursemosv2/timer.jquery.js"></script>
+<script type="text/javascript" src="https://lms.mokpo.ac.kr/theme/jquery.php/theme_coursemosv2/jquery.validate.ko.js"></script>
+<script type="text/javascript" src="https://lms.mokpo.ac.kr/theme/jquery.php/theme_coursemosv2/bootstrap-datepicker.kr.min.js"></script>
+<script type="text/javascript" src="https://lms.mokpo.ac.kr/theme/jquery.php/theme_coursemosv2/fullcalendar/ko.js"></script>
+<script type="text/javascript" src="https://lms.mokpo.ac.kr/theme/jquery.php/theme_coursemosv2/jquery.mCustomScrollbar.concat.min.js"></script>
+<script type="text/javascript" src="https://lms.mokpo.ac.kr/theme/jquery.php/theme_coursemosv2/jquery.headroom.min.js"></script>
+<script type="text/javascript" src="https://lms.mokpo.ac.kr/lib/javascript.php/1586338475/lib/javascript-static.js"></script>
+<script type="text/javascript" src="https://lms.mokpo.ac.kr/theme/javascript.php/coursemosv2/1586338475/head"></script>
+<script type="text/javascript">
+//<![CDATA[
+document.body.className += ' jsenabled';
+//]]>
+</script>
+
+<script type="text/javascript">
+	$(function() {
+		M.theme_coursemosv2.login();
+	});
+</script>
+<div id="page">
+	<div id="page-content" class="clearfix">
+		<div id="region-main">
+			<div role="main"><span id="maincontent"></span><script type="text/javascript" src="/theme/coursemosv2/jquery/jquery.dotdotdot.min.js"></script>
+<script type="text/javascript">
+
+	$(function() {
+				$("#username").focus();
+		
+		$(".loginform").validate();
+
+		$(".notice_more_view").click(function() {
+			$("#board_more").attr("href", "https://lms.mokpo.ac.kr/mod/ubboard/view.php?id=1");
+		});
+
+		$(".qna_more_view").click(function() {
+			$("#board_more").attr("href", "https://lms.mokpo.ac.kr/mod/ubboard/view.php?id=24");
+		});
+		
+	});
+	
+</script>
+
+<!-- main_login_wrapper -->
+<div class="main_login_wrapper"> 
+  
+  	<!-- main_login_bg-->
+  	<div class="main_login_bg"> 
+    
+    	<!-- main_visual_txt -->
+    	<div class="main_visual_txt">
+      		<p>지역과 더불어 세계로 미래로<br />
+      		<span>도약하는최고 국립대</span></p>
+    	</div>
+    	<!-- //main_visual_txt --> 
+    
+    	<!-- main_login_bar -->
+    	<div class="main_login_bar">
+      	<h1></h1>
+
+		<div class="main_login_box login_form loginform   col-login-default">
+        	<h3>LOGIN</h3>
+			<div class="btn-group">
+				<a href="https://mnuwb.mokpo.ac.kr/uat/uia/loginForm.do?returnUrl=https://lms.mokpo.ac.kr/sso/index.php" class="btn btn-default main_login_btn">통합 로그인</a>				
+			</div>
+			<div class="main_login_person"><a href="#"  class=" btn-person" >외부인 로그인</a> </div>
+			<div class="main_login_find_idpw"> <a href="https://mnuwb.mokpo.ac.kr/uat/uia/egovIdPasswordSearch.do" target="_blank">아이디/비밀번호 찾기</a> </div>
+		</div>
+
+      	<!-- main_login_box -->
+      	<div class="main_login_box login_form  col-login-person">
+			<div class="login-form-close">
+				<button type="button" class="nobtn">&nbsp;</button>
+			</div>
+
+        	<h3>LOGIN</h3>
+        	<form action="https://lms.mokpo.ac.kr/login/index.php" method="post" class="loginform">
+        		        	<div class="form-group">
+	          		<input type="text" id="input-username" name="username" class="main_login_input required" placeholder="사용자 아이디" value="" />
+	        	</div>
+	        	<div class="form-group">
+	          		<input type="password" id="input-password" name="password" class="main_login_input required" placeholder="비밀번호" />
+	        	</div>
+	        	<div class="form-group">
+	          		<button type="submit" class="main_login_btn">Login</button>
+	        	</div>
+	        	<div class="login-remember">
+	          		<label class="main_login_txt">
+	            		<input type="checkbox" id="remember" name="rememberusername"  />
+	            		사용자이름 기억 
+	            	</label>
+	        	</div>
+				<div class="main_login_find_idpw"> <a href="https://mnuwb.mokpo.ac.kr/uat/uia/egovIdPasswordSearch.do" target="_blank">아이디/비밀번호 찾기</a> </div>
+    		</form>
+  		</div>
+	
+		
+		<!-- //main_login_box --> 
+  
+  		<!-- main_login_bottom -->
+  		<div class="main_login_bottom">
+    		<div class="main_login_lang dropdown langdropdown"><a href="#" id="user-language" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nobtn dropdown-toggle">한국어 ‎<span class="caret"></span></a><ul class="dropdown-menu" role="menu" aria-labelledby="user-language"><li><a href="https://lms.mokpo.ac.kr/login.php?lang=en" title="English ‎(en)‎">English ‎(en)‎</a><span class="natinal_flag"><img src="https://lms.mokpo.ac.kr/theme/image.php/coursemosv2/theme_coursemosv2/1586338475/flag/en" alt="en" /></span></li><li><a href="https://lms.mokpo.ac.kr/login.php?lang=ko" title="한국어 ‎(ko)‎">한국어 ‎(ko)‎</a><span class="natinal_flag"><img src="https://lms.mokpo.ac.kr/theme/image.php/coursemosv2/theme_coursemosv2/1586338475/flag/ko" alt="ko" /></span></li></ul></div>    
+    		<!-- SNS -->
+		    <div class="main_login_sns"> 
+		    
+		    </div>
+		    <div class="main_login_line">
+		      	<div class="line"></div>
+		    </div>
+		    <div class="main_login_privacy"> 
+		    	<a href="http://www.mokpo.ac.kr/index.9is?contentUid=4a94e3925428c8280154946175306f66" target="_blank">개인정보처리방침</a>
+		    </div>
+    
+		    <!-- main_login_copy -->
+		    <div class="main_login_copy">
+		         [58554] 전남 무안군 청계면 영산로 1666<br/><p class="login_copyright">COPYRIGHT@ MOKPO <BR/>NATIONAL UNIVERSITY</p>		    </div>
+		    <!-- //main_login_copy --> 
+    
+ 		</div>
+  		<!-- //main_login_bottom --> 
+  
+		</div>
+		<!-- //main_login_bar -->
+
+	</div>
+	<!-- //main_login_bg --> 
+
+	<!-- main_login_right-->
+	<div class="main_login_right"> 
+	  
+	 	<!-- main_login_link -->
+
+	  	<!-- main_login_list_03 -->
+	  	<div class="main_login_list main_login_notice"> 
+	    
+		    <!-- main_list_tab -->
+		    <div class="main_list_tab">
+		      	<p class="main_more"> <a href="https://lms.mokpo.ac.kr/mod/ubboard/view.php?id=1" id="board_more">더보기</a> </p>
+		      	<ul class="nav nav-tabs">
+		        	<li class="active"><a href="#ubboard_latest_notice" data-toggle="tab" class="notice_more_view">공지사항</a></li>
+		        	<li class=""><a href="#ubboard_latest_qna" data-toggle="tab" class="qna_more_view">K-mooc 홍보</a></li>
+		      	</ul>
+		      	<div class="tab-content">
+		        	<div class="tab-pane active" id="ubboard_latest_notice">
+		          		<ul class="board_article">
+		            		<li><a href="https://lms.mokpo.ac.kr/mod/ubboard/article.php?id=1&amp;bwid=7255" class="first">ㆍ<span class="title">[긴급] 코스모스 앱 진도 체크 기능 복구 안내	</span></a><div class="first_article">- 코스모스 앱을 통한 동영상 시청 진도 체크 기능 복구 완료- 복구 시간 : 2020.4...</div></li><li><a href="https://lms.mokpo.ac.kr/mod/ubboard/article.php?id=1&amp;bwid=7248" class="">ㆍ<span class="title">[긴급] 코스모스 앱 장애 안내	</span></a></li><li><a href="https://lms.mokpo.ac.kr/mod/ubboard/article.php?id=1&amp;bwid=6983" class="">ㆍ<span class="title">목포대포털 서비스 개편에 따른 LMS 서버시 일시중단 안내(연장)	</span></a></li><li><a href="https://lms.mokpo.ac.kr/mod/ubboard/article.php?id=1&amp;bwid=5991" class="">ㆍ<span class="title">웹포탈 보안 패치 작업으로 인한 LMS  서버스 중지 안내	</span></a></li><li><a href="https://lms.mokpo.ac.kr/mod/ubboard/article.php?id=1&amp;bwid=4154" class="">ㆍ<span class="title">아이폰 사용자 코스모스 앱 로그인 오류 복구 안내	</span></a></li>		          		</ul>
+		        	</div>
+		        	<div class="tab-pane" id="ubboard_latest_qna">
+		          		<ul class="board_article">
+		            	<li><a href="https://lms.mokpo.ac.kr/mod/ubboard/article.php?id=24&amp;bwid=84" class="">ㆍ<span class="title">2020년 1학기 사이버한국외대 K-MOOC 홍보	</span></a></li><li><a href="https://lms.mokpo.ac.kr/mod/ubboard/article.php?id=24&amp;bwid=83" class="">ㆍ<span class="title">신라대학교 K-MOOC 신규 강좌 수강안내	</span></a></li><li><a href="https://lms.mokpo.ac.kr/mod/ubboard/article.php?id=24&amp;bwid=82" class="">ㆍ<span class="title">대구가톨릭대학교 신규 K-MOOC 묶음강좌 수강 안내	</span></a></li><li><a href="https://lms.mokpo.ac.kr/mod/ubboard/article.php?id=24&amp;bwid=81" class="">ㆍ<span class="title">건국대학교(글로컬) K-MOOC 수강안내	</span></a></li><li><a href="https://lms.mokpo.ac.kr/mod/ubboard/article.php?id=24&amp;bwid=80" class="">ㆍ<span class="title">2019학년도 우송대학교 K-MOOC 신규 강좌 수강 안내 	</span></a></li>		          		</ul>
+		        	</div>
+		      	</div>
+		    </div>
+		    <!-- //main_list_tab --> 
+  		</div>
+  		<!-- //main_login_list_03 --> 
+  
+	  	<!-- 이용안내 및 관려사이트 -->
+	  	<div class="main_login_info">     
+		    <!-- 이용안내 -->
+		    <p class="info_title">이용안내</p>
+		    <div class="info_use">
+		      	<ul>
+		        	<li><a href="https://lms.mokpo.ac.kr/mod/ubboard/view.php?id=1">공지사항</a></li>
+		        	<li><a href="https://lms.mokpo.ac.kr/mod/ubboard/view.php?id=2">Q&A</a></li>
+		        	<li><a href="https://lms.mokpo.ac.kr/mod/ubboard/view.php?id=3">FAQ</a></li>
+		        	<li><a href="https://lms.mokpo.ac.kr/local/ubion/manual/">매뉴얼</a></li>
+		      	</ul>
+		    </div>
+		    
+		    <!-- 관련 사이트 -->
+		    <p class="info_title">관련사이트</p>
+		    <div class="related_site">
+		      	<ul>
+		        	<li><a href="http://mnueidi.mokpo.ac.kr" target="_blank">교육혁신개발원</a></li>
+		        	<li><a href="http://www.mokpo.ac.kr/index.9is" >학교 홈페이지</a></li>
+		        	<li><a href="http://cons.ocu.ac.kr/" target="_blank">OCU열린사이버대학</a></li>
+		        	<li><a href="http://www.kocw.net/home/search/univCourses.do?univId=284" target="_blank">MNU-KOCW</a></li>
+		        	<li><a href="http://www.kmooc.kr/" target="_blank">K-MOOC</a></li>
+		      	</ul>
+		    </div>
+	  	</div>
+	</div>
+<!-- //main_login_right -->
+
+</div>
+<!-- //main_login_wrapper --></div>		</div>
+	</div>	
+</div>
+
+
+</body>
+</html>

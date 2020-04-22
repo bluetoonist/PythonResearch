@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c5e76e5-8189-4ab7-bb93-61928fc3aa1b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PythonHackingExercises/HackTheBox/register.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_file/NumGenerate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_file/dummy.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_file/dummy13237.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_file/header.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_file/idro/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/WebHackingKr/Practice02.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonHackingExercises/WebHackingKr/Practice02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/WebHackingKr/Practice03.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonHackingExercises/WebHackingKr/Practice03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Appliaction_Module/Example01.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Appliaction_Module/Example01.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Example02">
+  <component name="RunManager" selected="Python.register">
     <configuration name="Example01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="lets_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,8 +131,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="register" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lets_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonHackingExercises/HackTheBox" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonHackingExercises/HackTheBox/register.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.register" />
         <item itemvalue="Python.Example02" />
         <item itemvalue="Python.Example01" />
         <item itemvalue="Python.ctypesExample" />
@@ -168,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587024877876</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2020-04-16 폴더 트리 수정">
+      <created>1587040375118</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587040375118</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,7 +220,8 @@
     <MESSAGE value="Merged!" />
     <MESSAGE value="2020-04-14 update" />
     <MESSAGE value="2020-04-16 update" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-04-16 update" />
+    <MESSAGE value="2020-04-16 폴더 트리 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-04-16 폴더 트리 수정" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579689883311">
