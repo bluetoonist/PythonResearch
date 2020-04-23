@@ -1,6 +1,10 @@
+"""
+ Rquest Header 정보를 가진 text 파일을 사전형 타입으로 바꿔주는 코드
+"""
+
 dict_header = dict()
 
-with open("header.txt","r",encoding="utf-8") as f:
+with open("RequestHeaderExample.txt","r",encoding="utf-8") as f:
 
     # for x in f.readlines():
     #     print(bytes(x,"utf-8"))
