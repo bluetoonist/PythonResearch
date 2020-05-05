@@ -2,6 +2,8 @@ import pyautogui
 import pygetwindow
 from time import sleep
 import random
+
+#  특정 좌표를 기준으로 클릭하는 매크로
 Mabinogi_handler =  pygetwindow.getWindowsWithTitle("마비노기")[0]
 Exit_handler =  pygetwindow.getWindowsWithTitle("Program Manager")[0]
 

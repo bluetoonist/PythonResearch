@@ -42,7 +42,7 @@ def virustotal_ip(ip):
             parameterIP = str(parameterIP.strip())
 
         url = 'https://www.virustotal.com/vtapi/v2/ip-address/report'
-        params = {'apikey': 'e36ede2fcd1baa28ddfbf5840216ecddc3ec6d35737e2bc5cc53e88a4a3b5f40', 'ip': parameterIP}
+        params = {'apikey': '', 'ip': parameterIP}
         response = requests.get(url, params=params)
 
         result = json.loads(response.content)

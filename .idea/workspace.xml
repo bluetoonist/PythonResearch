@@ -3,7 +3,34 @@
   <component name="ChangeListManager">
     <list default="true" id="8c5e76e5-8189-4ab7-bb93-61928fc3aa1b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExampleGroup/windowTimeTounix/notepad.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExampleGroup/windowTimeTounix/notepad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/MISP_iplog/MISP_2nd.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/MISP_iplog/MISP_2nd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/32.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/MabinogiDaemotMacro02.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/MabinogiDaemotMacro02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/MacroExample02/Example02_.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/MacroExample02/Example02_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/daemot1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/daemot2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/daemot3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/daemot4.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/testing.PNG" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -231,7 +258,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587631323609</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="# 윈도우 타임스탬프 변환 예제코드 추가">
+      <created>1587919007160</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587919007174</updated>
+    </task>
+    <task id="LOCAL-00008" summary="# proto_flask 삭제">
+      <created>1587919072259</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587919072259</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,7 +295,9 @@
     <MESSAGE value="2020-04-16 폴더 트리 수정" />
     <MESSAGE value="2020-04-22 requests에서 파일 다운로드 예제 추가" />
     <MESSAGE value="# request Header를 사전형 타입으로 바꿔주는 예제 코드 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="# request Header를 사전형 타입으로 바꿔주는 예제 코드 추가" />
+    <MESSAGE value="# 윈도우 타임스탬프 변환 예제코드 추가" />
+    <MESSAGE value="# proto_flask 삭제" />
+    <option name="LAST_COMMIT_MESSAGE" value="# proto_flask 삭제" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579689883311">
