@@ -2,37 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c5e76e5-8189-4ab7-bb93-61928fc3aa1b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/lets_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lets_python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/MISP_iplog/MISP_2nd.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/MISP_iplog/MISP_2nd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/32.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/MabinogiDaemotMacro02.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/MabinogiDaemotMacro02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/MacroExample02/Example02_.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/marbinogiMacro/MacroExample02/Example02_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/daemot1.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/daemot2.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/daemot3.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/daemot4.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/rock9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/testing.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_cipher/Element/Caesar.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_cipher/Element/Caesar.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,18 +50,6 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/pro_flask" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.notepad">
     <configuration name="Example01" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -205,6 +167,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -300,10 +274,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="# proto_flask 삭제" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579689883311">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state x="184" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.827@0.23.1440.827" timestamp="1579689883311" />
     <state width="678" height="157" key="GridCell.Tab.0.bottom" timestamp="1584882747199">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
@@ -336,10 +306,10 @@
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state width="1398" height="265" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1580416762319" />
-    <state x="0" y="75" key="SettingsEditor" timestamp="1580379140196">
+    <state x="0" y="75" key="SettingsEditor" timestamp="1588934215121">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="0" y="75" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1580379140196" />
+    <state x="0" y="75" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1588934215121" />
     <state x="820" y="123" width="620" height="726" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1580450596650">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
@@ -348,6 +318,10 @@
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="489" y="190" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1584880087796" />
+    <state x="395" y="235" key="git4idea.merge.GitPullDialog" timestamp="1588934191679">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="395" y="235" key="git4idea.merge.GitPullDialog/0.23.1440.827@0.23.1440.827" timestamp="1588934191679" />
     <state x="385" y="174" width="670" height="676" key="search.everywhere.popup" timestamp="1580420181426">
       <screen x="0" y="23" width="1440" height="827" />
     </state>

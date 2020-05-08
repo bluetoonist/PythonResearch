@@ -1,4 +1,11 @@
+# 카이사르 암호문 소스코드
+
 def MakeDiskKey(k):
+    """
+    :param k 는 알파벳 인덱스
+    :return: 복호화 된 문자열 키
+    """
+
     dec_disk = {}
     for i in range(1,26):
         alp = (i+k)%26 + 65
