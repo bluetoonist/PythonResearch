@@ -11,12 +11,17 @@ insert value
 sqlite> INSERT INTO customer (name,category, region) VALUES('Alex',1,'SEA');   
    
 """
+
+# connect data base sqlite3
 conn = sqlite3.connect("test.db")
 
 cur = conn.cursor()
+#INSERT
+cur.execute("insert into customer (name,category,region) VALUES ('Apple',2,'MOUNT')")
 
-cur.execute('select * from customer where id= ? and name=?',(str(1)+'update customer set name=A where name=Alex', "Alex"))
-cur.execute('select * from customer')
+# READ
+cur.execute('select * from customer where id= 1')
+
 rows = cur.fetchall()
 
 for row in rows:
