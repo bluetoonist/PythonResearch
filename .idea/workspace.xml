@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c5e76e5-8189-4ab7-bb93-61928fc3aa1b" name="Default Changelist" comment="# 카이사르 암호문 복호화 코드 주석 수정">
+      <change afterPath="$PROJECT_DIR$/CRUD_Example/Input_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CRUD_Example/Example01.py" beforeDir="false" afterPath="$PROJECT_DIR$/CRUD_Example/Example01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CRUD_Example/logTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CRUD_Example/test.db" beforeDir="false" afterPath="$PROJECT_DIR$/CRUD_Example/test.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +54,7 @@
       <recent name="$PROJECT_DIR$/pro_flask" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Example01 (1)">
+  <component name="RunManager" selected="Python.Input_data">
     <configuration name="Example01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lets_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,6 +68,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CRUD_Example/Example01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Input_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lets_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CRUD_Example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CRUD_Example/Input_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,6 +120,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Input_data" />
         <item itemvalue="Python.Example01 (1)" />
         <item itemvalue="Python.logTest" />
       </list>
@@ -225,24 +250,28 @@
       <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state x="286" y="197" key="FileChooserDialogImpl/0.23.1440.829@0.23.1440.829" timestamp="1591098227275" />
-    <state width="1398" height="157" key="GridCell.Tab.0.bottom" timestamp="1593601082636">
+    <state width="678" height="157" key="GridCell.Tab.0.bottom" timestamp="1594106207081">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
+    <state width="678" height="157" key="GridCell.Tab.0.bottom/-1080.23.1080.723/0.23.1440.829@0.23.1440.829" timestamp="1594106207081" />
     <state width="678" height="157" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1588936799235" />
     <state width="1398" height="157" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1593601082636" />
-    <state width="1398" height="157" key="GridCell.Tab.0.center" timestamp="1593601082635">
+    <state width="678" height="157" key="GridCell.Tab.0.center" timestamp="1594106207080">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
+    <state width="678" height="157" key="GridCell.Tab.0.center/-1080.23.1080.723/0.23.1440.829@0.23.1440.829" timestamp="1594106207080" />
     <state width="678" height="157" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1588936799233" />
     <state width="1398" height="157" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1593601082635" />
-    <state width="1398" height="157" key="GridCell.Tab.0.left" timestamp="1593601082634">
+    <state width="678" height="157" key="GridCell.Tab.0.left" timestamp="1594106207079">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
+    <state width="678" height="157" key="GridCell.Tab.0.left/-1080.23.1080.723/0.23.1440.829@0.23.1440.829" timestamp="1594106207079" />
     <state width="678" height="157" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1588936799232" />
     <state width="1398" height="157" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1593601082634" />
-    <state width="1398" height="157" key="GridCell.Tab.0.right" timestamp="1593601082636">
+    <state width="678" height="157" key="GridCell.Tab.0.right" timestamp="1594106207080">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
+    <state width="678" height="157" key="GridCell.Tab.0.right/-1080.23.1080.723/0.23.1440.829@0.23.1440.829" timestamp="1594106207080" />
     <state width="678" height="157" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1588936799234" />
     <state width="1398" height="157" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1593601082636" />
     <state x="0" y="75" key="SettingsEditor" timestamp="1593499196193">
@@ -254,11 +283,11 @@
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="640" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.827@0.23.1440.827" timestamp="1588934511250" />
-    <state x="489" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1593837494435">
+    <state x="489" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1594105314329">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state x="489" y="190" key="com.intellij.ide.util.TipDialog/-1080.23.1080.723/0.23.1440.829@0.23.1440.829" timestamp="1592549493535" />
-    <state x="489" y="190" key="com.intellij.ide.util.TipDialog/0.23.1440.829@0.23.1440.829" timestamp="1593837494435" />
+    <state x="489" y="190" key="com.intellij.ide.util.TipDialog/0.23.1440.829@0.23.1440.829" timestamp="1594105314329" />
     <state x="503" y="361" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593499205351">
       <screen x="0" y="23" width="1440" height="829" />
     </state>

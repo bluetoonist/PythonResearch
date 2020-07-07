@@ -1,13 +1,14 @@
 import sqlite3
 """
-table create
+# table create
 sqlite> create table customer (
    ...> id integer primary key autoincrement,
    ...> name text not null,
    ...> category integer,
    ...> region text);
 
-insert value
+
+# insert value
 sqlite> INSERT INTO customer (name,category, region) VALUES('Alex',1,'SEA');   
    
 """
