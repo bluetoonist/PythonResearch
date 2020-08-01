@@ -1,11 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8c5e76e5-8189-4ab7-bb93-61928fc3aa1b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SkelearnPredict/sklaernMemoryPredict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SkelearnPredict/train_set_visuzlized.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Toyproject/MNU_SSO_LOGIN/SSO_DOIT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Toyproject/MNU_SSO_LOGIN/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Toyproject/MNU_SSO_LOGIN/crawled_helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/lets_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lets_python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_cipher/Element/Caesar.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_cipher/Element/Caesar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/ChromeHistoryAnalysis/Example_history_dumping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Toyproject/ChromeHistoryAnalysis/Example_history_dumping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/ChromeHistoryAnalysis/chome_history_dumping_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/Toyproject/ChromeHistoryAnalysis/chome_history_dumping_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/ITL_KOREA_Crawler/ITLKOREA_.py" beforeDir="false" afterPath="$PROJECT_DIR$/Toyproject/ITL_KOREA_Crawler/ITLKOREA_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/ITL_KOREA_Crawler/ITLKOREA_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Toyproject/ITL_KOREA_Crawler/ITLKOREA_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/MISP_iplog/IP_log/Example_IP.log" beforeDir="false" afterPath="$PROJECT_DIR$/Toyproject/MISP_iplog/IP_log/Example_IP.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/MISP_iplog/MISP_2nd.py" beforeDir="false" afterPath="$PROJECT_DIR$/Toyproject/MISP_iplog/MISP_2nd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/MISP_iplog/MISP_Import.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Toyproject/MISP_iplog/MISP_Import.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/MISP_iplog/Result/201909021541_ip_analysis.log" beforeDir="false" afterPath="$PROJECT_DIR$/Toyproject/MISP_iplog/Result/201909021541_ip_analysis.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/MISP_iplog/Result/201909031113_ip_analysis.log" beforeDir="false" afterPath="$PROJECT_DIR$/Toyproject/MISP_iplog/Result/201909031113_ip_analysis.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/MNU_ASSIGN_TRAVERSAL/MNU_ASSIGN_SNIFFING.py" beforeDir="false" afterPath="$PROJECT_DIR$/Toyproject/MNU_ASSIGN_TRAVERSAL/MNU_ASSIGN_SNIFFING.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/NaverFormAuto_Generator/automated_sendform.py" beforeDir="false" afterPath="$PROJECT_DIR$/Toyproject/NaverFormAuto_Generator/automated_sendform.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/NaverFormAuto_Generator/testing_automated_senform.py" beforeDir="false" afterPath="$PROJECT_DIR$/Toyproject/NaverFormAuto_Generator/testing_automated_senform.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/NaverFormAuto_Generator/testing_debuggin_chrome_connect.py" beforeDir="false" afterPath="$PROJECT_DIR$/Toyproject/NaverFormAuto_Generator/testing_debuggin_chrome_connect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/MabinogiDaemotMacro02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Toyproject/marbinogiMacro/MabinogiDaemotMacro02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/MacroExample02/Example02_.py" beforeDir="false" afterPath="$PROJECT_DIR$/Toyproject/marbinogiMacro/MacroExample02/Example02_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/MarbinogiMarcro.py" beforeDir="false" afterPath="$PROJECT_DIR$/Toyproject/marbinogiMacro/MarbinogiMarcro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/TestMacroExam01/MacroExample01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Toyproject/marbinogiMacro/TestMacroExam01/MacroExample01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/TestMacroExam01/MacroExample02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Toyproject/marbinogiMacro/TestMacroExam01/MacroExample02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/rocks_click_test/image_click.py" beforeDir="false" afterPath="$PROJECT_DIR$/Toyproject/marbinogiMacro/rocks_click_test/image_click.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/marbinogiMacro/test-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Toyproject/marbinogiMacro/test-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/oracleConnection/ExcelRead.py" beforeDir="false" afterPath="$PROJECT_DIR$/Toyproject/oracleConnection/ExcelRead.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/oracleConnection/conncetion_example02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Toyproject/oracleConnection/conncetion_example02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/oracleConnection/connection_example01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Toyproject/oracleConnection/connection_example01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/standfordMatch/Example01_Proj.py" beforeDir="false" afterPath="$PROJECT_DIR$/Toyproject/standfordMatch/Example01_Proj.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/standfordMatch/Example01_Proj2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Toyproject/standfordMatch/Example01_Proj2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/standfordMatch/cooks_header.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Toyproject/standfordMatch/cooks_header.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProject/userasistRegstiry_Dump/AnalysistUserAsist.py" beforeDir="false" afterPath="$PROJECT_DIR$/Toyproject/userasistRegstiry_Dump/AnalysistUserAsist.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,30 +79,33 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="deletionFromPopupRequiresConfirmation" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jan\Desktop\giSourcetree\Part_-Python\SkelearnPredict" />
+      <recent name="C:\Users\Jan\Desktop\giSourcetree\Part_-Python\MiniProject\MNU_SSO_LOGIN" />
       <recent name="C:\Users\user\Desktop\Source\gitPython\ExampleGroup" />
       <recent name="C:\Users\user\Desktop\Source\gitPython\PythonHackingExercises" />
       <recent name="C:\Users\user\Desktop\Source\gitPython\ExampleGroup\windowTimeTounix" />
-      <recent name="C:\Users\user\Desktop\Source\gitPython\PythonHackingExercises\PythonHackingNetworkModule" />
-      <recent name="C:\Users\user\Desktop\Source\gitPython\MiniProject" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/pro_flask" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.notepad">
-    <configuration name="Example01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.sklaernMemoryPredict">
+    <configuration name="SSO_DOIT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lets_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Appliaction_Module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MiniProject/MNU_SSO_LOGIN" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Appliaction_Module/Example01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MiniProject/MNU_SSO_LOGIN/SSO_DOIT.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Example02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="crawled_helper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lets_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Appliaction_Module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MiniProject/MNU_SSO_LOGIN" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Appliaction_Module/Example02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MiniProject/MNU_SSO_LOGIN/crawled_helper.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ctypesExample" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sklaernMemoryPredict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lets_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Appliaction_Module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SkelearnPredict" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Appliaction_Module/ctypesExample.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SkelearnPredict/sklaernMemoryPredict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="notepad" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lets_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,11 +176,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExampleGroup/windowTimeTounix" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExampleGroup/windowTimeTounix/notepad.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="register" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="train_set_visuzlized" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lets_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,11 +197,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonHackingExercises/HackTheBox" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SkelearnPredict" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonHackingExercises/HackTheBox/register.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SkelearnPredict/train_set_visuzlized.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,25 +212,13 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.notepad" />
-        <item itemvalue="Python.register" />
-        <item itemvalue="Python.Example02" />
-        <item itemvalue="Python.Example01" />
-        <item itemvalue="Python.ctypesExample" />
+        <item itemvalue="Python.sklaernMemoryPredict" />
+        <item itemvalue="Python.train_set_visuzlized" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.crawled_helper" />
+        <item itemvalue="Python.SSO_DOIT" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -254,13 +295,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Merged!" />
@@ -274,57 +314,67 @@
     <option name="LAST_COMMIT_MESSAGE" value="# proto_flask 삭제" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="678" height="157" key="GridCell.Tab.0.bottom" timestamp="1584882747199">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592812321230">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1592812321230" />
+    <state x="706" y="372" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1591284219044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="706" y="372" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591284219044" />
+    <state x="1218" y="283" key="FileChooserDialogImpl" timestamp="1591279293935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1218" y="283" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591279293935" />
+    <state width="1899" height="270" key="GridCell.Tab.0.bottom" timestamp="1592816021878">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="384" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1591284459473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="384" key="GridCell.Tab.0.bottom.inPresentationMode/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591284459473" />
+    <state width="1899" height="270" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1592816021878" />
     <state width="678" height="157" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1584882747199" />
-    <state width="678" height="157" key="GridCell.Tab.0.center" timestamp="1584882747198">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1899" height="270" key="GridCell.Tab.0.center" timestamp="1592816021878">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1899" height="384" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1591284459472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="384" key="GridCell.Tab.0.center.inPresentationMode/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591284459472" />
+    <state width="1899" height="270" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1592816021878" />
     <state width="678" height="157" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1584882747198" />
-    <state width="678" height="157" key="GridCell.Tab.0.left" timestamp="1584882747197">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1899" height="270" key="GridCell.Tab.0.left" timestamp="1592816021878">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1899" height="384" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1591284459472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="384" key="GridCell.Tab.0.left.inPresentationMode/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591284459472" />
+    <state width="1899" height="270" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1592816021878" />
     <state width="678" height="157" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1584882747197" />
-    <state width="678" height="157" key="GridCell.Tab.0.right" timestamp="1584882747198">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1899" height="270" key="GridCell.Tab.0.right" timestamp="1592816021878">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1899" height="384" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1591284459473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="384" key="GridCell.Tab.0.right.inPresentationMode/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591284459473" />
+    <state width="1899" height="270" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1592816021878" />
     <state width="678" height="157" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1584882747198" />
-    <state width="1398" height="265" key="GridCell.Tab.1.bottom" timestamp="1580416762320">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state x="0" y="65" width="1920" height="907" key="SettingsEditor" timestamp="1591284598046">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1398" height="265" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1580416762320" />
-    <state width="1398" height="265" key="GridCell.Tab.1.center" timestamp="1580416762319">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state width="1398" height="265" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1580416762319" />
-    <state width="1398" height="265" key="GridCell.Tab.1.left" timestamp="1580416762319">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state width="1398" height="265" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1580416762319" />
-    <state width="1398" height="265" key="GridCell.Tab.1.right" timestamp="1580416762319">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state width="1398" height="265" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1580416762319" />
-    <state x="0" y="75" key="SettingsEditor" timestamp="1588934215121">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
+    <state x="0" y="65" width="1920" height="907" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591284598046" />
     <state x="0" y="75" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1588934215121" />
-    <state x="820" y="123" width="620" height="726" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1580450596650">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state x="820" y="123" width="620" height="726" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.827@0.23.1440.827" timestamp="1580450596650" />
     <state x="489" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1584880087796">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="489" y="190" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1584880087796" />
-    <state x="395" y="235" key="git4idea.merge.GitPullDialog" timestamp="1588934191679">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state x="527" y="267" key="git4idea.merge.GitPullDialog" timestamp="1591278862688">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="527" y="267" key="git4idea.merge.GitPullDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591278862688" />
     <state x="395" y="235" key="git4idea.merge.GitPullDialog/0.23.1440.827@0.23.1440.827" timestamp="1588934191679" />
-    <state x="385" y="174" width="670" height="676" key="search.everywhere.popup" timestamp="1580420181426">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state x="385" y="174" width="670" height="676" key="search.everywhere.popup/0.23.1440.827@0.23.1440.827" timestamp="1580420181426" />
   </component>
 </project>
