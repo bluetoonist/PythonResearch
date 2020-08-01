@@ -16,6 +16,7 @@ def caesar(msg,key):
     ret = ''
     msg= msg.upper()
     disk = MakeDiskKey(key)
+
     for c in msg:
         if c in disk:
             ret += disk[c]
