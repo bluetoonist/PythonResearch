@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c5e76e5-8189-4ab7-bb93-61928fc3aa1b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/lets_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lets_python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CloudAPI/Example01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_cipher/Element/Caesar.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_cipher/Element/Caesar.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +27,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -51,8 +48,8 @@
       <recent name="$PROJECT_DIR$/pro_flask" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.notepad">
-    <configuration name="Example01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Example01 (2)">
+    <configuration name="Example01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lets_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,11 +57,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Appliaction_Module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/finderMaxpatorl" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Appliaction_Module/Example01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/finderMaxpatorl/Example01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Example01 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lets_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CloudAPI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CloudAPI/Example01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,27 +104,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Appliaction_Module/Example02.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ctypesExample" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="lets_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Appliaction_Module" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonHackingExercises/Python_Hacking_Appliaction_Module/ctypesExample.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,25 +156,13 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Example01 (2)" />
+        <item itemvalue="Python.Example01 (1)" />
         <item itemvalue="Python.notepad" />
         <item itemvalue="Python.register" />
         <item itemvalue="Python.Example02" />
-        <item itemvalue="Python.Example01" />
-        <item itemvalue="Python.ctypesExample" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -246,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587919072259</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="[U] 2020.08.01 병합 못 한 파일 병합">
+      <created>1596263145236</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1596263145236</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,13 +246,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Merged!" />
@@ -271,60 +262,37 @@
     <MESSAGE value="# request Header를 사전형 타입으로 바꿔주는 예제 코드 추가" />
     <MESSAGE value="# 윈도우 타임스탬프 변환 예제코드 추가" />
     <MESSAGE value="# proto_flask 삭제" />
-    <option name="LAST_COMMIT_MESSAGE" value="# proto_flask 삭제" />
+    <MESSAGE value="[U] 2020.08.01 병합 못 한 파일 병합" />
+    <option name="LAST_COMMIT_MESSAGE" value="[U] 2020.08.01 병합 못 한 파일 병합" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="678" height="157" key="GridCell.Tab.0.bottom" timestamp="1584882747199">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1899" height="355" key="GridCell.Tab.0.bottom" timestamp="1596704972185">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="678" height="157" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1584882747199" />
-    <state width="678" height="157" key="GridCell.Tab.0.center" timestamp="1584882747198">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1515" height="267" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1596521927218" />
+    <state width="1899" height="355" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596704972185" />
+    <state width="1899" height="355" key="GridCell.Tab.0.center" timestamp="1596704972184">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="678" height="157" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1584882747198" />
-    <state width="678" height="157" key="GridCell.Tab.0.left" timestamp="1584882747197">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1515" height="267" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1596521927218" />
+    <state width="1899" height="355" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596704972184" />
+    <state width="1899" height="355" key="GridCell.Tab.0.left" timestamp="1596704972184">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="678" height="157" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1584882747197" />
-    <state width="678" height="157" key="GridCell.Tab.0.right" timestamp="1584882747198">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1515" height="267" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1596521927217" />
+    <state width="1899" height="355" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596704972184" />
+    <state width="1899" height="355" key="GridCell.Tab.0.right" timestamp="1596704972185">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="678" height="157" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1584882747198" />
-    <state width="1398" height="265" key="GridCell.Tab.1.bottom" timestamp="1580416762320">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state width="1398" height="265" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1580416762320" />
-    <state width="1398" height="265" key="GridCell.Tab.1.center" timestamp="1580416762319">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state width="1398" height="265" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1580416762319" />
-    <state width="1398" height="265" key="GridCell.Tab.1.left" timestamp="1580416762319">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state width="1398" height="265" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1580416762319" />
-    <state width="1398" height="265" key="GridCell.Tab.1.right" timestamp="1580416762319">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state width="1398" height="265" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1580416762319" />
+    <state width="1515" height="267" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1596521927218" />
+    <state width="1899" height="355" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596704972185" />
     <state x="0" y="75" key="SettingsEditor" timestamp="1588934215121">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="0" y="75" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1588934215121" />
-    <state x="820" y="123" width="620" height="726" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1580450596650">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state x="820" y="123" width="620" height="726" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.827@0.23.1440.827" timestamp="1580450596650" />
-    <state x="489" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1584880087796">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state x="489" y="190" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1584880087796" />
     <state x="395" y="235" key="git4idea.merge.GitPullDialog" timestamp="1588934191679">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="395" y="235" key="git4idea.merge.GitPullDialog/0.23.1440.827@0.23.1440.827" timestamp="1588934191679" />
-    <state x="385" y="174" width="670" height="676" key="search.everywhere.popup" timestamp="1580420181426">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state x="385" y="174" width="670" height="676" key="search.everywhere.popup/0.23.1440.827@0.23.1440.827" timestamp="1580420181426" />
   </component>
 </project>
