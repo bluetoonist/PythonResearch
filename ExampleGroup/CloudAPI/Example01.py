@@ -22,4 +22,4 @@ def run_quicker(file_name):
 
 
 if __name__ == '__main__':
-    run_quicker("./asd.jpg")
+    run_quicker("asd.jpg")
