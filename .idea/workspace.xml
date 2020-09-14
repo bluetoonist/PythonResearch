@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c5e76e5-8189-4ab7-bb93-61928fc3aa1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PandasStudy/Pandas_DataFrame01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PandasStudy/Pandas_DataFrame02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PandasStudy/Pandas_Series_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PandasStudy/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExampleGroup/InstargramCrawler/Example01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD_Example/Example01.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExampleGroup/CRUD_Example/Example01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD_Example/Input_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExampleGroup/CRUD_Example/Input_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD_Example/test.db" beforeDir="false" afterPath="$PROJECT_DIR$/ExampleGroup/CRUD_Example/test.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CloudAPI/Example01.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExampleGroup/CloudAPI/Example01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiProcessing/test01.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExampleGroup/MultiProcessing/test01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiProcessing/test02.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExampleGroup/MultiProcessing/test02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiProcessing/test03.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExampleGroup/MultiProcessing/test03.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +48,28 @@
       <recent name="C:\Users\user\Desktop\Source\gitPython\PythonHackingExercises\PythonHackingNetworkModule" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Pandas_DataFrame02">
+  <component name="RunManager" selected="Python.Example01">
+    <configuration name="Example01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lets_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExampleGroup/InstargramCrawler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExampleGroup/InstargramCrawler/Example01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Pandas_DataFrame01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lets_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,6 +135,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Example01" />
         <item itemvalue="Python.Pandas_DataFrame02" />
         <item itemvalue="Python.Pandas_DataFrame01" />
         <item itemvalue="Python.Pandas_Series_" />
@@ -211,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596705784443</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="[U] 2020.08.19 pandas basic">
+      <created>1597847090308</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1597847090308</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,40 +256,41 @@
     <MESSAGE value="# proto_flask 삭제" />
     <MESSAGE value="[U] 2020.08.01 병합 못 한 파일 병합" />
     <MESSAGE value="[U] 2020.08.06 Cloud API 코드 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="[U] 2020.08.06 Cloud API 코드 추가" />
+    <MESSAGE value="[U] 2020.08.19 pandas basic" />
+    <option name="LAST_COMMIT_MESSAGE" value="[U] 2020.08.19 pandas basic" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2497" y="87" key="CommitChangelistDialog2" timestamp="1596705782472">
+    <state x="2497" y="87" key="CommitChangelistDialog2" timestamp="1597847086966">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2497" y="87" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596705782472" />
-    <state width="1899" height="355" key="GridCell.Tab.0.bottom" timestamp="1597846416489">
+    <state x="2497" y="87" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597847086966" />
+    <state width="1899" height="355" key="GridCell.Tab.0.bottom" timestamp="1597847154966">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="267" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1596521927218" />
-    <state width="1899" height="355" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597846416489" />
-    <state width="1899" height="355" key="GridCell.Tab.0.center" timestamp="1597846416488">
+    <state width="1899" height="355" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597847154966" />
+    <state width="1899" height="355" key="GridCell.Tab.0.center" timestamp="1597847154966">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="267" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1596521927218" />
-    <state width="1899" height="355" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597846416488" />
-    <state width="1899" height="355" key="GridCell.Tab.0.left" timestamp="1597846416488">
+    <state width="1899" height="355" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597847154966" />
+    <state width="1899" height="355" key="GridCell.Tab.0.left" timestamp="1597847154965">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="267" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1596521927217" />
-    <state width="1899" height="355" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597846416488" />
-    <state width="1899" height="355" key="GridCell.Tab.0.right" timestamp="1597846416488">
+    <state width="1899" height="355" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597847154965" />
+    <state width="1899" height="355" key="GridCell.Tab.0.right" timestamp="1597847154966">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="267" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1596521927218" />
-    <state width="1899" height="355" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597846416488" />
-    <state x="2103" y="145" key="SettingsEditor" timestamp="1596705797827">
+    <state width="1899" height="355" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597847154966" />
+    <state x="2103" y="145" key="SettingsEditor" timestamp="1600090851405">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2103" y="145" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596705797827" />
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1596705810356">
+    <state x="2103" y="145" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600090851405" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597847103040">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596705810356" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597847103040" />
   </component>
 </project>
