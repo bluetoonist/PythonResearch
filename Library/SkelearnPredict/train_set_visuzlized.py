@@ -1,7 +1,7 @@
 import pandas as pd
 from matplotlib import pyplot as plt
 
-train_save_path = "./train_set.csv"
+train_save_path = "train_set.csv"
 file_open_obj = open(train_save_path, "a+", newline='')
 
 df = pd.read_csv(train_save_path, names=['process', 'threads', 'memory_usage'], sep=",")

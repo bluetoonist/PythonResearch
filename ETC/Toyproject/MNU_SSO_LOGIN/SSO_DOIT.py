@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from time import sleep
 
 
-driver =webdriver.Chrome("./chromedriver.exe")
+driver =webdriver.Chrome("chromedriver.exe")
 
 # SSO POTAL
 driver.get("https://mnuwb.mokpo.ac.kr/uat/uia/loginForm.do?site_preference=normal")

@@ -8,7 +8,7 @@ import pandas as pd
 from sklearn.linear_model import LinearRegression
 
 model = LinearRegression()
-train_save_path = "./train_set.csv"
+train_save_path = "train_set.csv"
 
 # 데이터 수집 프로세스
 # 총 100회
