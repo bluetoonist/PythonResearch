@@ -40,9 +40,9 @@ def to_bytes(bytes_or_str):
 # 아래의 코드는 Python3에서는 에러가 남
 import os
 
-with open("test.bin", "w") as f:
+with open("../test.bin", "w") as f:
     f.write(os.urandom(10))
 
 # Solution : 데이터를 문자 쓰기모드('w')가 아닌 바이너리 쓰기 모드('wb')로 오픈
-with open("test.bin", "wb") as f:
+with open("../test.bin", "wb") as f:
     f.write(os.urandom(10))
