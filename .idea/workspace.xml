@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c5e76e5-8189-4ab7-bb93-61928fc3aa1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ExampleGroup/InstargramCrawler/Example01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grammer/OOPython/ObjectOrientedProgramming/Example01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grammer/OOPython/ObjectOrientedProgramming/Example02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grammer/OOPython/ObjectOrientedProgramming/Example03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="deletionFromPopupRequiresConfirmation" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -48,7 +51,28 @@
       <recent name="C:\Users\user\Desktop\Source\gitPython\PythonHackingExercises\PythonHackingNetworkModule" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Example01">
+  <component name="RunManager" selected="Python.Example03">
+    <configuration name="Example01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lets_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Grammer/OOPython/ObjectOrientedProgramming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Grammer/OOPython/ObjectOrientedProgramming/Example01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Example01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lets_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Pandas_DataFrame01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Example02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lets_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,11 +102,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PandasStudy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Grammer/OOPython/ObjectOrientedProgramming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Jan\Desktop\giSourcetree\Part_-Python\PandasStudy\Pandas_DataFrame01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Grammer/OOPython/ObjectOrientedProgramming/Example02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Example03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lets_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Grammer/OOPython/ObjectOrientedProgramming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Grammer/OOPython/ObjectOrientedProgramming/Example03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,33 +157,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Pandas_Series_" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="lets_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PandasStudy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PandasStudy/Pandas_Series_.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Example03" />
+        <item itemvalue="Python.Example02" />
+        <item itemvalue="Python.Example01 (1)" />
         <item itemvalue="Python.Example01" />
         <item itemvalue="Python.Pandas_DataFrame02" />
-        <item itemvalue="Python.Pandas_DataFrame01" />
-        <item itemvalue="Python.Pandas_Series_" />
       </list>
     </recent_temporary>
   </component>
@@ -260,37 +285,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="[U] 2020.08.19 pandas basic" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2497" y="87" key="CommitChangelistDialog2" timestamp="1597847086966">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1898" height="362" key="GridCell.Tab.0.bottom" timestamp="1612191560106">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="2497" y="87" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597847086966" />
-    <state width="1899" height="355" key="GridCell.Tab.0.bottom" timestamp="1597847154966">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1898" height="362" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1612191560106" />
+    <state width="1898" height="362" key="GridCell.Tab.0.center" timestamp="1612191560106">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1515" height="267" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1596521927218" />
-    <state width="1899" height="355" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597847154966" />
-    <state width="1899" height="355" key="GridCell.Tab.0.center" timestamp="1597847154966">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1898" height="362" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1612191560106" />
+    <state width="1898" height="362" key="GridCell.Tab.0.left" timestamp="1612191560106">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1515" height="267" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1596521927218" />
-    <state width="1899" height="355" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597847154966" />
-    <state width="1899" height="355" key="GridCell.Tab.0.left" timestamp="1597847154965">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1898" height="362" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1612191560106" />
+    <state width="1898" height="362" key="GridCell.Tab.0.right" timestamp="1612191560106">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1515" height="267" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1596521927217" />
-    <state width="1899" height="355" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597847154965" />
-    <state width="1899" height="355" key="GridCell.Tab.0.right" timestamp="1597847154966">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1515" height="267" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1596521927218" />
-    <state width="1899" height="355" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597847154966" />
-    <state x="2103" y="145" key="SettingsEditor" timestamp="1600090851405">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2103" y="145" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600090851405" />
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597847103040">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597847103040" />
+    <state width="1898" height="362" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1612191560106" />
   </component>
 </project>
