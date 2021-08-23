@@ -2,10 +2,176 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c5e76e5-8189-4ab7-bb93-61928fc3aa1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Grammer/OOPython/ObjectOrientedProgramming/Example01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Grammer/OOPython/ObjectOrientedProgramming/Example02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Grammer/OOPython/ObjectOrientedProgramming/Example03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grammer/OOPython/MagicMethod/Example.__getitem__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grammer/OOPython/Notepad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grammer/OOPython/ObjectOrientedProgramming/classmethod_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/Listings.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/a1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/a2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/a_text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/a_text2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/b1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/b_text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/b_text2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/codecomments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/codecomments2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/codecomments3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/codecomments4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/codecomments5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/codecomments6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/codecomments7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/loop1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/loop2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/metrictest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/metrictest1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/metrictest2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/metrictest_fix1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/metrictest_fix2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/power.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/rankbase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/textrank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/textrank2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/urlrank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/urlrank2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/.cache/v/cache/lastfailed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/.coverage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/Listings.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/datetimehelper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/fakelogger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/notepad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/palindrome1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/palindrome2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/palindrome3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/selenium_testcase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/test_datetimehelper1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/test_datetimehelper2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/test_datetimehelper_object.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/test_palindrome1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/test_palindrome2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/test_palindrome3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/test_textsearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/textsearcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/url_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/Listings.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/big_o.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/bloomtest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/chainmap_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/common_items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/defaultdict_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/hound_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/mem_profile_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/named.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/objgraph_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/ordered.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/primes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/rotate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/sub_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/sub_string2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/Listings.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/Lock_threading/LockExample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/Practice/ThumbNailGenerate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/Practice/notepad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/Practice/thumbnail_pc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/async_fetch_url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/async_fetch_url2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/asyncio_tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/celery_mandelbrot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/concurrent_factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/concurrent_thumbnail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/generator_tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/mandelbrot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/mandelbrot_mp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/mandelbrot_tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/prime_joblib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/prime_process.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/prime_thread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/sort_counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/sort_counter_mp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/sort_in_memory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/thumbnail_converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/thumbnail_limit_lock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/thumbnail_limit_sema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/thumbnail_pc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/thumbnail_url_controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/uwsgi.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/Listings.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/compare_passwords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/crytpo_password_compare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/guessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/guessing_fix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/len_overflow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/passwd.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/print_employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/ssti-example-dos-fix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/ssti-example-dos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/ssti-example-fixed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/ssti-example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/test_eval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/test_eval2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/test_serialize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/test_serialize_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/test_serialize_safe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/Listings.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/adapter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/adapter_o.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/borg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/builder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/facade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/hash_stream.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/hash_stream2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/hasher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/iterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/observer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/observer_async.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/prototype.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/singleton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/state.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter08/Listings.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter08/chatclient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter08/chatserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter08/communication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter08/eventlet_chat_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter08/gevent_chat_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter08/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter08/pipe_recent_gen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter08/pipe_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter08/pipe_words_gen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter08/twisted_chat_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter08/twisted_chat_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter08/twisted_fetch_url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter09/Listing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter09/dependencies.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter09/fabfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter09/mandelbrot/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter09/mandelbrot/mandelbrot/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter09/mandelbrot/mandelbrot/mp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter09/mandelbrot/mandelbrot/mp/mandelbrot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter09/mandelbrot/mandelbrot/simple/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter09/mandelbrot/mandelbrot/simple/mandelbrot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter09/mandelbrot/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter10/Listings.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter10/custom_logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter10/external_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter10/maxsubarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter10/maxsubarray_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter10/maxsubarray_v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter10/maxsubarray_v4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter10/mocking_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter10/random_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter10/word_searcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/notepad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lets_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lets_python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/note.py" beforeDir="false" afterPath="$PROJECT_DIR$/note.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,19 +196,17 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="deletionFromPopupRequiresConfirmation" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../djangoExcer" />
+    <property name="settings.editor.selected.configurable" value="indent.rainbow.settings.IrConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/pro_flask" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Jan\Desktop\giSourcetree\Part_-Python\ExampleGroup" />
       <recent name="C:\Users\user\Desktop\Source\gitPython\ExampleGroup" />
@@ -50,9 +214,13 @@
       <recent name="C:\Users\user\Desktop\Source\gitPython\ExampleGroup\windowTimeTounix" />
       <recent name="C:\Users\user\Desktop\Source\gitPython\PythonHackingExercises\PythonHackingNetworkModule" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Source\PythonResearch\StudyBook" />
+      <recent name="$PROJECT_DIR$/pro_flask" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.Example03">
-    <configuration name="Example01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.notepad (1)">
+    <configuration name="note" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lets_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,11 +228,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Grammer/OOPython/ObjectOrientedProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Grammer/OOPython/ObjectOrientedProgramming/Example01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/note.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,7 +241,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Example01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="notepad (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lets_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,11 +249,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExampleGroup/InstargramCrawler" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExampleGroup/InstargramCrawler/Example01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/notepad.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +262,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Example02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="notepad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lets_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,11 +270,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Grammer/OOPython/ObjectOrientedProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Grammer/OOPython/ObjectOrientedProgramming/Example02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/Practice/notepad.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +283,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Example03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="thumbnail_pc (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lets_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,11 +291,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Grammer/OOPython/ObjectOrientedProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Grammer/OOPython/ObjectOrientedProgramming/Example03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/thumbnail_pc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +304,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Pandas_DataFrame02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="thumbnail_pc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lets_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,11 +312,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PandasStudy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PandasStudy/Pandas_DataFrame02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/Practice/thumbnail_pc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +327,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Example03" />
-        <item itemvalue="Python.Example02" />
-        <item itemvalue="Python.Example01 (1)" />
-        <item itemvalue="Python.Example01" />
-        <item itemvalue="Python.Pandas_DataFrame02" />
+        <item itemvalue="Python.notepad (1)" />
+        <item itemvalue="Python.notepad" />
+        <item itemvalue="Python.note" />
+        <item itemvalue="Python.thumbnail_pc" />
+        <item itemvalue="Python.thumbnail_pc (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597847090308</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="[U] 2021.02.01 클래스 기본 예제 추가">
+      <created>1612191625311</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1612191625311</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -282,24 +457,81 @@
     <MESSAGE value="[U] 2020.08.01 병합 못 한 파일 병합" />
     <MESSAGE value="[U] 2020.08.06 Cloud API 코드 추가" />
     <MESSAGE value="[U] 2020.08.19 pandas basic" />
-    <option name="LAST_COMMIT_MESSAGE" value="[U] 2020.08.19 pandas basic" />
+    <MESSAGE value="[U] 2021.02.01 클래스 기본 예제 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="[U] 2021.02.01 클래스 기본 예제 추가" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1898" height="362" key="GridCell.Tab.0.bottom" timestamp="1612191560106">
+    <state x="577" y="21" key="CommitChangelistDialog2" timestamp="1612191624318">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1898" height="362" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1612191560106" />
-    <state width="1898" height="362" key="GridCell.Tab.0.center" timestamp="1612191560106">
+    <state x="577" y="21" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1612191624318" />
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1614586236803">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1898" height="362" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1612191560106" />
-    <state width="1898" height="362" key="GridCell.Tab.0.left" timestamp="1612191560106">
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1614586236803" />
+    <state x="2660" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1613484488728" />
+    <state width="1898" height="233" key="GridCell.Tab.0.bottom" timestamp="1614450885674">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1898" height="362" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1612191560106" />
-    <state width="1898" height="362" key="GridCell.Tab.0.right" timestamp="1612191560106">
+    <state width="1898" height="233" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1614450885674" />
+    <state width="1898" height="314" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1614086920888" />
+    <state width="1898" height="233" key="GridCell.Tab.0.center" timestamp="1614450885674">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1898" height="362" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1612191560106" />
+    <state width="1898" height="233" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1614450885674" />
+    <state width="1898" height="314" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1614086920888" />
+    <state width="1898" height="233" key="GridCell.Tab.0.left" timestamp="1614450885673">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1898" height="233" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1614450885673" />
+    <state width="1898" height="314" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1614086920888" />
+    <state width="1898" height="233" key="GridCell.Tab.0.right" timestamp="1614450885674">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1898" height="233" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1614450885674" />
+    <state width="1898" height="314" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1614086920888" />
+    <state width="1898" height="354" key="GridCell.Tab.1.bottom" timestamp="1613484513294">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1898" height="354" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1613196659543" />
+    <state width="1898" height="354" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1613484513294" />
+    <state width="1898" height="354" key="GridCell.Tab.1.center" timestamp="1613484513294">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1898" height="354" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1613196659542" />
+    <state width="1898" height="354" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1613484513294" />
+    <state width="1898" height="354" key="GridCell.Tab.1.left" timestamp="1613484513294">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1898" height="354" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1613196659542" />
+    <state width="1898" height="354" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1613484513294" />
+    <state width="1898" height="354" key="GridCell.Tab.1.right" timestamp="1613484513294">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1898" height="354" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1613196659542" />
+    <state width="1898" height="354" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1613484513294" />
+    <state x="2381" y="184" key="SettingsEditor" timestamp="1614087137545">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="184" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1613764981702" />
+    <state x="2381" y="184" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1614087137545" />
+    <state x="552" y="269" key="Vcs.Push.Dialog.v2" timestamp="1612191629240">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1612191629240" />
+    <state x="2662" y="210" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1613481433811">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2662" y="210" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1613481433811" />
+    <state x="2589" y="258" width="582" height="564" key="find.popup" timestamp="1614438144794">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="669" y="258" width="582" height="564" key="find.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1613765270486" />
+    <state x="2589" y="258" width="582" height="564" key="find.popup/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1614438144794" />
+    <state x="2813" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1614083459122">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="893" y="243" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1613139848300" />
+    <state x="2813" y="243" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1614083459122" />
   </component>
 </project>
