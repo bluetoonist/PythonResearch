@@ -2,176 +2,134 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c5e76e5-8189-4ab7-bb93-61928fc3aa1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Grammer/OOPython/MagicMethod/Example.__getitem__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Grammer/OOPython/Notepad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Grammer/OOPython/ObjectOrientedProgramming/classmethod_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/Listings.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/a1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/a2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/a_text.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/a_text2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/b1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/b_text.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/b_text2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/codecomments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/codecomments2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/codecomments3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/codecomments4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/codecomments5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/codecomments6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/codecomments7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/loop1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/loop2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/metrictest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/metrictest1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/metrictest2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/metrictest_fix1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/metrictest_fix2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/power.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/rankbase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/textrank.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/textrank2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/urlrank.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter02/urlrank2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/.cache/v/cache/lastfailed" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/.coverage" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/Listings.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/datetimehelper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/fakelogger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/notepad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/palindrome1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/palindrome2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/palindrome3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/selenium_testcase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/test_datetimehelper1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/test_datetimehelper2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/test_datetimehelper_object.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/test_palindrome1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/test_palindrome2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/test_palindrome3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/test_textsearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/textsearcher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter03/url_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/Listings.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/big_o.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/bloomtest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/chainmap_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/common_items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/defaultdict_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/hound_words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/mem_profile_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/named.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/objgraph_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/ordered.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/plot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/primes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/rotate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/sub_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter04/sub_string2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/Listings.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/Lock_threading/LockExample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/Practice/ThumbNailGenerate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/Practice/notepad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/Practice/thumbnail_pc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/async_fetch_url.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/async_fetch_url2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/asyncio_tasks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/celery_mandelbrot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/concurrent_factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/concurrent_thumbnail.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/generator_tasks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/mandelbrot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/mandelbrot_mp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/mandelbrot_tasks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/prime_joblib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/prime_process.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/prime_thread.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/sort_counter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/sort_counter_mp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/sort_in_memory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/thumbnail_converter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/thumbnail_limit_lock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/thumbnail_limit_sema.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/thumbnail_pc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/thumbnail_url_controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/uwsgi.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/Listings.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/compare_passwords.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/crytpo_password_compare.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/guessing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/guessing_fix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/len_overflow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/passwd.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/print_employee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/ssti-example-dos-fix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/ssti-example-dos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/ssti-example-fixed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/ssti-example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/test_eval.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/test_eval2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/test_serialize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/test_serialize_json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter06/test_serialize_safe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/Listings.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/adapter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/adapter_o.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/borg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/builder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/facade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/factory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/hash_stream.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/hash_stream2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/hasher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/observer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/observer_async.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/prototype.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/proxy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/singleton.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter07/state.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter08/Listings.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter08/chatclient.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter08/chatserver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter08/communication.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter08/eventlet_chat_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter08/gevent_chat_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter08/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter08/pipe_recent_gen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter08/pipe_words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter08/pipe_words_gen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter08/twisted_chat_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter08/twisted_chat_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter08/twisted_fetch_url.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter09/Listing.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter09/dependencies.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter09/fabfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter09/mandelbrot/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter09/mandelbrot/mandelbrot/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter09/mandelbrot/mandelbrot/mp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter09/mandelbrot/mandelbrot/mp/mandelbrot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter09/mandelbrot/mandelbrot/simple/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter09/mandelbrot/mandelbrot/simple/mandelbrot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter09/mandelbrot/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter10/Listings.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter10/custom_logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter10/external_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter10/maxsubarray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter10/maxsubarray_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter10/maxsubarray_v3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter10/maxsubarray_v4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter10/mocking_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter10/random_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter10/word_searcher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/notepad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/note2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/note3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/lets_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lets_python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/note.py" beforeDir="false" afterPath="$PROJECT_DIR$/note.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/ChromeHistoryAnalysis/Example_history_dumping.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/ChromeHistoryAnalysis/chome_history_dumping_script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/ITL_KOREA_Crawler/ITLKOREA_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/ITL_KOREA_Crawler/ITLKOREA_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/MISP_iplog/IP_log/Example_IP.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/MISP_iplog/MISP_2nd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/MISP_iplog/MISP_Import.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/MISP_iplog/Result/201909021541_ip_analysis.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/MISP_iplog/Result/201909031113_ip_analysis.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/MNU_ASSIGN_TRAVERSAL/MNU_ASSIGN_SNIFFING.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/MNU_SSO_LOGIN/SSO_DOIT.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/MNU_SSO_LOGIN/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/MNU_SSO_LOGIN/crawled_helper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/NaverFormAuto_Generator/automated_sendform.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/NaverFormAuto_Generator/testing_automated_senform.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/NaverFormAuto_Generator/testing_debuggin_chrome_connect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/marbinogiMacro/MabinogiDaemotMacro02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/marbinogiMacro/MacroExample02/Example02_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/marbinogiMacro/MarbinogiMarcro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/marbinogiMacro/TestMacroExam01/MacroExample01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/marbinogiMacro/TestMacroExam01/MacroExample02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/marbinogiMacro/rocks_click_test/image_click.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/marbinogiMacro/test-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/oracleConnection/ExcelRead.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/oracleConnection/conncetion_example02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/oracleConnection/connection_example01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/standfordMatch/Example01_Proj.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/standfordMatch/Example01_Proj2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/standfordMatch/cooks_header.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/userasistRegstiry_Dump/AnalysistUserAsist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/Chapter1/BatterWay10.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/Chapter1/BatterWay10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/Chapter1/BatterWay4.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/Chapter1/BatterWay4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/Chapter1/BatterWay5.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/Chapter1/BatterWay5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/Chapter1/BatterWay7.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/Chapter1/BatterWay7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/Chapter1/BatterWay9.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/Chapter1/BatterWay9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/Chapter1/BatterrWay11.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/Chapter1/BatterrWay11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/Chapter1/BetterWay3.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/Chapter1/BetterWay3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/Chapter2/BatterWay14.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/Chapter2/BatterWay14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/descriptor_protocol.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/descriptor_protocol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/getattr_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/getattr_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/getattr_solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/getattr_solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/getattribute_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/getattribute_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/metaclass_/metaClass_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/metaclass_/metaClass_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/property_usage.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/property_usage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/property_usage2.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/property_usage2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/setattr_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/setattr_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/test.bin" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/test.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/LearningPython/Bound_UnBound.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/LearningPython/Bound_UnBound.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/LearningPython/Is_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/LearningPython/Is_a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/LearningPython/Manggling.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/LearningPython/Manggling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/LearningPython/delegation.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/LearningPython/delegation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/LearningPython/factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/LearningPython/factory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/LearningPython/has_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/LearningPython/has_a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/LearningPython/stream_processor_page1180/stream.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/LearningPython/stream_processor_page1180/stream.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/LearningPython/stream_processor_page1180/trimspam.txt" beforeDir="false" afterPath="$PROJECT_DIR$/books/LearningPython/stream_processor_page1180/trimspam.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/develop/Note.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/develop/decorator_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/develop/get_set_attrs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammer/develop/property_exam.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/BluetoothModule/BluetoothConnectingExample.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/ExampleGroup/BluetoothModule/BluetoothConnectingExample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/CRUD_Example/Example01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/CRUD_Example/Input_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/CRUD_Example/test.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/CloudAPI/Example01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Bisect/bisect01.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Bisect/bisect01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Bisect/bisect_Total.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Bisect/bisect_Total.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Comprehension/Comprehension2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Comprehension/Comprehension2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Comprehension/Comprehension_.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Comprehension/Comprehension_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Comprehension/NamedTupleEx.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Comprehension/NamedTupleEx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/DataBase_/DataBase_Structure.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataBase_/DataBase_Structure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/DataBase_/DataBase_Structure2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataBase_/DataBase_Structure2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/DefaultDict/DIct_Default.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DefaultDict/DIct_Default.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/DefaultDict/DIct_default3.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DefaultDict/DIct_default3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/DefaultDict/Dict_default_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DefaultDict/Dict_default_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Filtering/filteringEx.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Filtering/filteringEx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Generator/generator_yield.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Generator/generator_yield.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Heap/Heap_Total.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Heap/Heap_Total.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Heap/headData.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Heap/headData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Heap/showHeap.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Heap/showHeap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Pack_And_Unpack/PackAndUnpack.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Pack_And_Unpack/PackAndUnpack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Queue/DequeEx(collections).py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Queue/DequeEx(collections).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Queue/Queue01.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Queue/Queue01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Queue/Queue_priority.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Queue/Queue_priority.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Queue/someText.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Queue/someText.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Slicing/slicingEx.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Slicing/slicingEx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/array/array.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/array/array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/array/array_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/array/array_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/array/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/array/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/collections/Collections_.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/collections/Collections_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/collections/Collections_total.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/collections/Collections_total.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/collections/tesd.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/collections/tesd.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/Recursive/Example01.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/ExampleGroup/Grammer/Recursive/Example01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/InstargramCrawler/Example01.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/ExampleGroup/InstargramCrawler/Example01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/MultiProcessing/test01.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/ExampleGroup/MultiProcessing/test01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/MultiProcessing/test02.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/ExampleGroup/MultiProcessing/test02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/MultiProcessing/test03.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/ExampleGroup/MultiProcessing/test03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/requestHeadertoDictExample/RequestHeaderExample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/etc/ExampleGroup/requestHeadertoDictExample/RequestHeaderExample.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/requestHeadertoDictExample/RequestHeaderToDictType.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/ExampleGroup/requestHeadertoDictExample/RequestHeaderToDictType.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/windowTimeTounix/notepad.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/ExampleGroup/windowTimeTounix/notepad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PandasStudy/Pandas_DataFrame01.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/PandasStudy/Pandas_DataFrame01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PandasStudy/Pandas_DataFrame02.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/PandasStudy/Pandas_DataFrame02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PandasStudy/Pandas_Series_.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/PandasStudy/Pandas_Series_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PandasStudy/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/etc/PandasStudy/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SkelearnPredict/sklaernMemoryPredict.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/SkelearnPredict/sklaernMemoryPredict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SkelearnPredict/train_set.csv" beforeDir="false" afterPath="$PROJECT_DIR$/etc/SkelearnPredict/train_set.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SkelearnPredict/train_set_visuzlized.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/SkelearnPredict/train_set_visuzlized.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/python_cipher/AES_.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_cipher/AES_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/python_cipher/DES_.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_cipher/DES_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/python_cipher/Element/Caesar.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_cipher/Element/Caesar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/python_cipher/Element/Let's_Make_Codebook.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_cipher/Element/Let's_Make_Codebook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/python_cipher/Element/Word_Count.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_cipher/Element/Word_Count.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/python_cipher/RSA_Private_KEY_FILE_CHECK.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_cipher/RSA_Private_KEY_FILE_CHECK.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/python_cipher/RSA_Private_KEY_MAKE_FILE.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_cipher/RSA_Private_KEY_MAKE_FILE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/python_cipher/RSA_Public_KEY_Cipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_cipher/RSA_Public_KEY_Cipher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/Basic/FirstClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/파이썬답게코딩하기/FirstClass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/Basic/Scope/ScopeExample01.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/파이썬답게코딩하기/Scope/ScopeExample01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/Basic/Scope/ScopeExample02.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/파이썬답게코딩하기/Scope/ScopeExample02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/Basic/Scope/ScopeExample03.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/파이썬답게코딩하기/Scope/ScopeExample03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/Basic/Scope/ScopeExample04.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/파이썬답게코딩하기/Scope/ScopeExample04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/Basic/Scope/nested_function_error.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/파이썬답게코딩하기/Scope/nested_function_error.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/Basic/Scope/variable_shadowing.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/파이썬답게코딩하기/Scope/variable_shadowing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/Basic/first_class_function_paramaeter.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/파이썬답게코딩하기/first_class_function_paramaeter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/Basic/first_class_function_variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/파이썬답게코딩하기/first_class_function_variable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/Basic/higher-order function.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/파이썬답게코딩하기/higher-order function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/Basic/nested function.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/파이썬답게코딩하기/nested function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/Basic/nested_function_calculator_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/파이썬답게코딩하기/nested_function_calculator_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/Basic/nested_function_calculator_2_closure.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/파이썬답게코딩하기/nested_function_calculator_2_closure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,6 +147,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1Wh0QymCDua9eayfsTJ2OJefLQV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -198,14 +159,12 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="deletionFromPopupRequiresConfirmation" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../djangoExcer" />
-    <property name="settings.editor.selected.configurable" value="indent.rainbow.settings.IrConfigurable" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Jan\Desktop\giSourcetree\Part_-Python\ExampleGroup" />
@@ -335,6 +294,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -443,7 +403,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Merged!" />
