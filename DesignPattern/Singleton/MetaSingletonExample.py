@@ -16,11 +16,12 @@ def test_single(cls):
     return cls() == cls()
 
 
-class SingletonM(metaclass=MetaSingleton):
-    def __init__(self):
-        self.a = 1
+class SingletonM(metaclass=MetaSingleton): pass
+
+
+# def __init__(self):
+#     self.a = 1
 
 
 if __name__ == '__main__':
     instance1 = SingletonM()
-    print(instance1.a)

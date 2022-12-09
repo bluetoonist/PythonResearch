@@ -1,135 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c5e76e5-8189-4ab7-bb93-61928fc3aa1b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/ChromeHistoryAnalysis/Example_history_dumping.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/ChromeHistoryAnalysis/chome_history_dumping_script.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/ITL_KOREA_Crawler/ITLKOREA_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/ITL_KOREA_Crawler/ITLKOREA_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/MISP_iplog/IP_log/Example_IP.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/MISP_iplog/MISP_2nd.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/MISP_iplog/MISP_Import.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/MISP_iplog/Result/201909021541_ip_analysis.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/MISP_iplog/Result/201909031113_ip_analysis.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/MNU_ASSIGN_TRAVERSAL/MNU_ASSIGN_SNIFFING.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/MNU_SSO_LOGIN/SSO_DOIT.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/MNU_SSO_LOGIN/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/MNU_SSO_LOGIN/crawled_helper.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/NaverFormAuto_Generator/automated_sendform.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/NaverFormAuto_Generator/testing_automated_senform.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/NaverFormAuto_Generator/testing_debuggin_chrome_connect.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/marbinogiMacro/MabinogiDaemotMacro02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/marbinogiMacro/MacroExample02/Example02_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/marbinogiMacro/MarbinogiMarcro.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/marbinogiMacro/TestMacroExam01/MacroExample01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/marbinogiMacro/TestMacroExam01/MacroExample02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/marbinogiMacro/rocks_click_test/image_click.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/marbinogiMacro/test-1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/oracleConnection/ExcelRead.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/oracleConnection/conncetion_example02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/oracleConnection/connection_example01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/standfordMatch/Example01_Proj.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/standfordMatch/Example01_Proj2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/standfordMatch/cooks_header.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/Toyproject/userasistRegstiry_Dump/AnalysistUserAsist.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/Chapter1/BatterWay10.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/Chapter1/BatterWay10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/Chapter1/BatterWay4.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/Chapter1/BatterWay4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/Chapter1/BatterWay5.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/Chapter1/BatterWay5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/Chapter1/BatterWay7.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/Chapter1/BatterWay7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/Chapter1/BatterWay9.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/Chapter1/BatterWay9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/Chapter1/BatterrWay11.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/Chapter1/BatterrWay11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/Chapter1/BetterWay3.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/Chapter1/BetterWay3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/Chapter2/BatterWay14.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/Chapter2/BatterWay14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/descriptor_protocol.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/descriptor_protocol.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/getattr_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/getattr_example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/getattr_solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/getattr_solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/getattribute_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/getattribute_example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/metaclass_/metaClass_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/metaclass_/metaClass_example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/property_usage.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/property_usage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/property_usage2.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/property_usage2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/setattr_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/setattr_example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/EffectivePython/test.bin" beforeDir="false" afterPath="$PROJECT_DIR$/books/EffectivePython/test.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/LearningPython/Bound_UnBound.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/LearningPython/Bound_UnBound.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/LearningPython/Is_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/LearningPython/Is_a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/LearningPython/Manggling.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/LearningPython/Manggling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/LearningPython/delegation.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/LearningPython/delegation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/LearningPython/factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/LearningPython/factory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/LearningPython/has_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/LearningPython/has_a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/LearningPython/stream_processor_page1180/stream.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/LearningPython/stream_processor_page1180/stream.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/LearningPython/stream_processor_page1180/trimspam.txt" beforeDir="false" afterPath="$PROJECT_DIR$/books/LearningPython/stream_processor_page1180/trimspam.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/develop/Note.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/develop/decorator_example.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/develop/get_set_attrs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammer/develop/property_exam.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/BluetoothModule/BluetoothConnectingExample.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/ExampleGroup/BluetoothModule/BluetoothConnectingExample.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/CRUD_Example/Example01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/CRUD_Example/Input_data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/CRUD_Example/test.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/CloudAPI/Example01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Bisect/bisect01.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Bisect/bisect01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Bisect/bisect_Total.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Bisect/bisect_Total.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Comprehension/Comprehension2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Comprehension/Comprehension2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Comprehension/Comprehension_.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Comprehension/Comprehension_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Comprehension/NamedTupleEx.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Comprehension/NamedTupleEx.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/DataBase_/DataBase_Structure.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataBase_/DataBase_Structure.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/DataBase_/DataBase_Structure2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataBase_/DataBase_Structure2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/DefaultDict/DIct_Default.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DefaultDict/DIct_Default.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/DefaultDict/DIct_default3.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DefaultDict/DIct_default3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/DefaultDict/Dict_default_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DefaultDict/Dict_default_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Filtering/filteringEx.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Filtering/filteringEx.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Generator/generator_yield.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Generator/generator_yield.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Heap/Heap_Total.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Heap/Heap_Total.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Heap/headData.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Heap/headData.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Heap/showHeap.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Heap/showHeap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Pack_And_Unpack/PackAndUnpack.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Pack_And_Unpack/PackAndUnpack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Queue/DequeEx(collections).py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Queue/DequeEx(collections).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Queue/Queue01.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Queue/Queue01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Queue/Queue_priority.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Queue/Queue_priority.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Queue/someText.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Queue/someText.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/Slicing/slicingEx.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Slicing/slicingEx.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/array/array.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/array/array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/array/array_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/array/array_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/array/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/array/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/collections/Collections_.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/collections/Collections_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/collections/Collections_total.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/collections/Collections_total.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/DataStructure/collections/tesd.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/collections/tesd.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/Grammer/Recursive/Example01.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/ExampleGroup/Grammer/Recursive/Example01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/InstargramCrawler/Example01.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/ExampleGroup/InstargramCrawler/Example01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/MultiProcessing/test01.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/ExampleGroup/MultiProcessing/test01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/MultiProcessing/test02.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/ExampleGroup/MultiProcessing/test02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/MultiProcessing/test03.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/ExampleGroup/MultiProcessing/test03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/requestHeadertoDictExample/RequestHeaderExample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/etc/ExampleGroup/requestHeadertoDictExample/RequestHeaderExample.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/requestHeadertoDictExample/RequestHeaderToDictType.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/ExampleGroup/requestHeadertoDictExample/RequestHeaderToDictType.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ExampleGroup/windowTimeTounix/notepad.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/ExampleGroup/windowTimeTounix/notepad.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PandasStudy/Pandas_DataFrame01.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/PandasStudy/Pandas_DataFrame01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PandasStudy/Pandas_DataFrame02.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/PandasStudy/Pandas_DataFrame02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PandasStudy/Pandas_Series_.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/PandasStudy/Pandas_Series_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PandasStudy/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/etc/PandasStudy/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/SkelearnPredict/sklaernMemoryPredict.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/SkelearnPredict/sklaernMemoryPredict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/SkelearnPredict/train_set.csv" beforeDir="false" afterPath="$PROJECT_DIR$/etc/SkelearnPredict/train_set.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/SkelearnPredict/train_set_visuzlized.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/SkelearnPredict/train_set_visuzlized.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/python_cipher/AES_.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_cipher/AES_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/python_cipher/DES_.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_cipher/DES_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/python_cipher/Element/Caesar.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_cipher/Element/Caesar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/python_cipher/Element/Let's_Make_Codebook.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_cipher/Element/Let's_Make_Codebook.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/python_cipher/Element/Word_Count.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_cipher/Element/Word_Count.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/python_cipher/RSA_Private_KEY_FILE_CHECK.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_cipher/RSA_Private_KEY_FILE_CHECK.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/python_cipher/RSA_Private_KEY_MAKE_FILE.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_cipher/RSA_Private_KEY_MAKE_FILE.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/python_cipher/RSA_Public_KEY_Cipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_cipher/RSA_Public_KEY_Cipher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/Basic/FirstClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/파이썬답게코딩하기/FirstClass.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/Basic/Scope/ScopeExample01.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/파이썬답게코딩하기/Scope/ScopeExample01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/Basic/Scope/ScopeExample02.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/파이썬답게코딩하기/Scope/ScopeExample02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/Basic/Scope/ScopeExample03.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/파이썬답게코딩하기/Scope/ScopeExample03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/Basic/Scope/ScopeExample04.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/파이썬답게코딩하기/Scope/ScopeExample04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/Basic/Scope/nested_function_error.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/파이썬답게코딩하기/Scope/nested_function_error.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/Basic/Scope/variable_shadowing.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/파이썬답게코딩하기/Scope/variable_shadowing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/Basic/first_class_function_paramaeter.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/파이썬답게코딩하기/first_class_function_paramaeter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/Basic/first_class_function_variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/파이썬답게코딩하기/first_class_function_variable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/Basic/higher-order function.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/파이썬답게코딩하기/higher-order function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/Basic/nested function.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/파이썬답게코딩하기/nested function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/Basic/nested_function_calculator_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/파이썬답게코딩하기/nested_function_calculator_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/Basic/nested_function_calculator_2_closure.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/파이썬답게코딩하기/nested_function_calculator_2_closure.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    <list default="true" id="8c5e76e5-8189-4ab7-bb93-61928fc3aa1b" name="Default Changelist" comment="[U] 2021.02.01 클래스 기본 예제 추가">
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Singleton/note01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Singleton/note02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Research/notepad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lets_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lets_python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/Singleton/MetaSingletonExample.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/Singleton/MetaSingletonExample.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,27 +38,27 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Jan\Desktop\giSourcetree\Part_-Python\ExampleGroup" />
-      <recent name="C:\Users\user\Desktop\Source\gitPython\ExampleGroup" />
-      <recent name="C:\Users\user\Desktop\Source\gitPython\PythonHackingExercises" />
-      <recent name="C:\Users\user\Desktop\Source\gitPython\ExampleGroup\windowTimeTounix" />
-      <recent name="C:\Users\user\Desktop\Source\gitPython\PythonHackingExercises\PythonHackingNetworkModule" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Source\PythonResearch\StudyBook" />
       <recent name="$PROJECT_DIR$/pro_flask" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/books" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="C:\Users\Jan\Desktop\giSourcetree\Part_-Python\ExampleGroup" />
+      <recent name="C:\Users\user\Desktop\Source\gitPython\ExampleGroup" />
+      <recent name="C:\Users\user\Desktop\Source\gitPython\PythonHackingExercises" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.notepad (1)">
-    <configuration name="note" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.notepad (2)">
+    <configuration name="MetaSingletonExample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lets_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,11 +66,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DesignPattern/Singleton" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/note.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DesignPattern/Singleton/MetaSingletonExample.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="note01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lets_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DesignPattern/Singleton" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DesignPattern/Singleton/note01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="note02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lets_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DesignPattern/Singleton" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DesignPattern/Singleton/note02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="notepad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="notepad (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lets_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,53 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Research" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/Practice/notepad.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="thumbnail_pc (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="lets_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/thumbnail_pc.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="thumbnail_pc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="lets_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/Practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StudyBook/SoftwareArchitecturewithPython_Code/Chapter05/Practice/thumbnail_pc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Research/notepad.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -286,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.notepad (2)" />
+        <item itemvalue="Python.note02" />
+        <item itemvalue="Python.MetaSingletonExample" />
+        <item itemvalue="Python.note01" />
         <item itemvalue="Python.notepad (1)" />
-        <item itemvalue="Python.notepad" />
-        <item itemvalue="Python.note" />
-        <item itemvalue="Python.thumbnail_pc" />
-        <item itemvalue="Python.thumbnail_pc (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -418,79 +297,5 @@
     <MESSAGE value="[U] 2020.08.19 pandas basic" />
     <MESSAGE value="[U] 2021.02.01 클래스 기본 예제 추가" />
     <option name="LAST_COMMIT_MESSAGE" value="[U] 2021.02.01 클래스 기본 예제 추가" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="577" y="21" key="CommitChangelistDialog2" timestamp="1612191624318">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="577" y="21" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1612191624318" />
-    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1614586236803">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1614586236803" />
-    <state x="2660" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1613484488728" />
-    <state width="1898" height="233" key="GridCell.Tab.0.bottom" timestamp="1614450885674">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1898" height="233" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1614450885674" />
-    <state width="1898" height="314" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1614086920888" />
-    <state width="1898" height="233" key="GridCell.Tab.0.center" timestamp="1614450885674">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1898" height="233" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1614450885674" />
-    <state width="1898" height="314" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1614086920888" />
-    <state width="1898" height="233" key="GridCell.Tab.0.left" timestamp="1614450885673">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1898" height="233" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1614450885673" />
-    <state width="1898" height="314" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1614086920888" />
-    <state width="1898" height="233" key="GridCell.Tab.0.right" timestamp="1614450885674">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1898" height="233" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1614450885674" />
-    <state width="1898" height="314" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1614086920888" />
-    <state width="1898" height="354" key="GridCell.Tab.1.bottom" timestamp="1613484513294">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1898" height="354" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1613196659543" />
-    <state width="1898" height="354" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1613484513294" />
-    <state width="1898" height="354" key="GridCell.Tab.1.center" timestamp="1613484513294">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1898" height="354" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1613196659542" />
-    <state width="1898" height="354" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1613484513294" />
-    <state width="1898" height="354" key="GridCell.Tab.1.left" timestamp="1613484513294">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1898" height="354" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1613196659542" />
-    <state width="1898" height="354" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1613484513294" />
-    <state width="1898" height="354" key="GridCell.Tab.1.right" timestamp="1613484513294">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1898" height="354" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1613196659542" />
-    <state width="1898" height="354" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1613484513294" />
-    <state x="2381" y="184" key="SettingsEditor" timestamp="1614087137545">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="461" y="184" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1613764981702" />
-    <state x="2381" y="184" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1614087137545" />
-    <state x="552" y="269" key="Vcs.Push.Dialog.v2" timestamp="1612191629240">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="552" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1612191629240" />
-    <state x="2662" y="210" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1613481433811">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2662" y="210" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1613481433811" />
-    <state x="2589" y="258" width="582" height="564" key="find.popup" timestamp="1614438144794">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="669" y="258" width="582" height="564" key="find.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1613765270486" />
-    <state x="2589" y="258" width="582" height="564" key="find.popup/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1614438144794" />
-    <state x="2813" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1614083459122">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="893" y="243" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1613139848300" />
-    <state x="2813" y="243" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1614083459122" />
   </component>
 </project>
