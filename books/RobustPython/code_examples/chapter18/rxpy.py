@@ -3,11 +3,13 @@ from enum import Enum
 
 import rx
 
+
 class Direction(Enum):
     NORTH = "NORTH"
     WEST = "WEST"
     SOUTH = "SOUTH"
     EAST = "EAST"
+
 
 @dataclass
 class LocationData:
@@ -15,21 +17,26 @@ class LocationData:
     y: int
     z: int
 
+
 @dataclass
 class BatteryLevel:
     percent: int
+
 
 @dataclass
 class WindData:
     speed: int
     direction: Direction
 
+
 @dataclass
 class CurrentWeight:
     grams: int
 
+
 def is_close_to_restaurant(*args):
     return False
+
 
 observable = rx.of(
     LocationData(x=3, y=12, z=40),
@@ -45,15 +52,20 @@ observable = rx.of(
 )
 
 val = None
+
+
 def save_value(x):
     global val
     val = x
-    
+
+
 def save_average_weight(data):
     save_value(data)
 
+
 def save_max_altitude(data):
     save_value(data)
+
 
 import rx.operators
 
